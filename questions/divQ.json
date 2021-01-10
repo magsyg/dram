@@ -1,0 +1,114 @@
+{
+    "questions1": [
+        {"question":"__ og __ spiller mot hverandre. Noen tar tiden, og på tur skal alle andre i gruppa stille personen et spørsmål, dermed skal denne personen gjette når 60 sekunder har gått.","totalP":2,"itchy":1,"title":"60 Sekunder","underQ":"Den som er nærmest 60 sekunder vinner og kan dele ut 6 slurker, taperen må ta 6 slurker","id":0},
+        {"question": "Fra nå av har __ 3 ordre", "totalP": 1, "itchy": 1, "title": "Kongen befaler ", "underQ": "Å ikke følge disse ordrene straffes med 6 slurker", "id": 1}, 
+        {"question": "__ starter å drikke, etter det fortsetter personen til venstre å drikke osv. Ingen kan drikke før den første personen har stoppet å drikke og personen til høyre har stoppet å drikke", "totalP": 1, "itchy": 0, "title": "Waterfall", "id": 2}, 
+        {"question": "__ må gå i baris (dersom du er jente kan du velge om du vil beholde BH-en)", "totalP": 1, "itchy": 0, "title": "Sprengheit", "underQ": "Hvis noen stirrer på overkroppen til personen, må de ta 2 slurker", "id": 3}, 
+        {"question": "__ og __ må ta av seg et klesplagg hver", "totalP": 2, "itchy": 0, "title": "Strip", "underQ": "Dersom de ikke gidder må de ta 6 slurker", "id": 4}, 
+        {"question": "__ kan peke mot lufta når som helst. Siste personen som også peker i lufta tar 4 slurker", "totalP": 1, "itchy": 1, "title": "Heaven", "id": 5}, 
+        {"question": "__ skal beskrive en film eller serie ganske dårlig", "totalP": 1, "itchy": 1, "title": "Storyteller","underQ": "Første person som gjetter riktig, kan gi ut 5 slurker", "id": 6}, 
+        {"question": "__, sett på en sang, første mann som starter å synge til sangen kan dele ut 5 slurker", "totalP": 1, "itchy": 1, "title": "Singstar", "id": 7}, 
+        {"question": "__ og __ starter å drikke, siste person som slutter, kan dele ut 5 slurker", "totalP": 2, "itchy": 0, "title": "Drikkekonkurranse", "id": 8}, 
+        {"question": "Første person som fullfører drikken sin nå kan dele ut 20 slurker, dersom ingen gidder det må alle 6 slurker", "totalP": 0, "itchy": 0, "title": "Bonski", "id": 9}, 
+        {"question": "Alle kan dele ut 4 slurker hver! PROST!", "totalP": 0, "itchy": 0, "title": "Prost", "id": 10}, 
+        {"question": "__ kan skyte hvem som helst, når som helst. Blir du skutt har du 2 sekunder til å skyte en annen. Dersom du ikke rekker å skyte eller skyter noen som har blitt skutt, må du ta 6 slurker", "totalP": 1, "itchy": 1, "title": "Shoot out!", "id": 11}, 
+        {"question": "__ skal tenke på hvem som helst person i hele verden. Alle skal så spørre ja-/nei-spørsmål, første person som gjetter riktig kan dele ut 5 slurker, personen til venstre for den som blir spurt starter", "totalP": 1, "itchy": 1, "title": "Hvem er jeg?", "id": 12}, 
+        {"question": "Alle putter noe av drikken sin i en kopp, og __ må drikke det", "totalP": 1, "itchy": 0, "title": "Cocktail", "id": 13}, 
+        {"question": "__ send en koselig melding til en du bryr deg om. Alle tar en toast for -1-s vennlighet", "totalP": 1, "itchy": 1, "title": "Wholesome", "id": 14}, 
+        {"question": "__ hva er navnet på sextapen til __", "totalP": 2, "itchy": 0, "title": "Sextape", "id": 15}, 
+        {"question": "__ og __ har en stirrekonkurranse. Første person som ser vekk tar 5 slurker, og vinneren deler ut 5 slurker", "totalP": 2, "itchy": 1, "title": "Stirrekonkurranse", "id": 16}, 
+        {"question": "Hvis du har noen snus/sigaretter, må du ta 1 slurk for hvert par med sigaretter/snus du har igjen", "totalP": 0, "itchy": 0, "title": "Nikotinsjokk", "id": 17}, 
+        {"question": "__ si 2 sannheter og 1 løgn om deg selv, alle andre skal si hva de tror er løgnen", "totalP": 1, "itchy": 1, "title": "3 Påstander","underQ":"De som tok feil må ta 2 slurker, de som tok riktig kan dele ut 2 slurker", "id": 18}, 
+        {"question": "Oppleser bestem en person som __ skal ha en roastbattle med, gruppa bestemmer hvem som har den beste roasten", "totalP": 1, "itchy": 0, "title": "Roast","underQ":"Vinneren kan dele ut 6 slurker og taperen må drikke 6 slurker", "id": 19}, 
+        {"question": "__ og __ skal utveksle morra di vitser med hverandre, gruppa bestemmer hvem som har de beste morra di vitsene", "totalP": 2, "itchy": 1, "title": "Morra di", "underQ":"Vinneren kan dele ut 6 slurker og taperen må drikke 6 slurker", "id": 20}, 
+        {"question": "__ bestem en ting som __ må mime, første person som gjetter hva som blir mimet kan dele ut 6 slurker", "totalP": 2, "itchy": 1, "title": "Alias", "id": 21}, 
+        {"question": "Sett på Thunderstruck av ACDC, hver gang ordet thunder er sagt, så skal personen til venstre for den som drikker starte å drikke og den som drikker stoppe, __ starter, stopp når Thunderstruck blir sagt", "totalP": 1, "itchy": 0, "title": "Thunder", "id": 22}, 
+        {"question": "__ kan gi ut 20 slurker, men for hver slurk som deles ut må du ta en slurk selv", "totalP": 1, "itchy": 1, "title": "King Of Drinking", "id": 23}, 
+        {"question": "Oppleser skal sette opp en situasjon. __ og __ skal da snakke koffert om situasjonen på tur, den som går tom for vagt seksuelle utsagn må ta 4 slurker", "totalP": 2, "itchy": 0, "title": "Koffert", "id": 24}, 
+        {"question": "__ Nødt Eller Sannhet? __ bestemmer spørsmålet eller oppgaven", "totalP": 2, "itchy": 0, "title": "Nødt Eller Sannhet", "underQ":"Dersom du ikke tør å gjøre det tar du 6 slurker, dersom du gjør det kan du dele ut 10 slurker","id": 25}, 
+        {"question": "Sett på sangen Roxanne av the Police, jenter må drikke når Roxanne er sagt, og gutter må drikke når Red Light er sagt", "totalP": 0, "itchy": 1, "title": "Roxanne", "id": 26}, 
+        {"question": "__ bestem en som må drikke i 8 sekunder", "totalP": 1, "itchy": 0, "title": "Chug", "id": 27}, 
+        {"question": "Dere skal prøve å telle til 6, dere kan ikke avtale hvem som sier hva når, dere kan ikke si de samme tallene samtidig, og en person kan ikke si to tall etter hverandre, hver gang dere feiler starter dere på nytt og alle må ta 3 slurker", "totalP": 0, "itchy": 1, "title": "Gruppetelling", "id": 29}, 
+        {"question": "__ sett opp en regel, første mann som bryter den må chugge drikken sin", "totalP": 1, "itchy": 0, "title": "Super Regel", "id": 30},    
+        {"question": "__ skal stille 3 fakta relaterte spørsmål til __ og __, første man som svarer riktig på flest av spørsmålene vinner", "totalP": 3, "itchy": 1, "title": "Quiz ",  "underQ":"Vinneren kan dele ut 5 slurker og taperen må ta 5 slurker", "id": 31},
+        {"question": "Dere skal stille hverandre spørsmål på rundgang i gruppa, men når dere blir spurt skal dere ikke svare, men stille en annen et nytt spørsmål, første man som svarer må ta 4 slurker", "totalP": 0, "itchy": 1, "title": "Spørsmål", "id": 32},
+        {"question": "__ og __ samtidig si et tall mellom 1 og 15, -1- og -2- skal da drikke differansen av de to tallene i antall slurker, dersom de sier samme tall kan de dele ut 10 slurker hver", "totalP": 2, "itchy": 1, "title": "Forskjell", "id": 33},
+        {"question": "__ si en drøy ting som __ kanskje må gjøre, -2- skal da si et tall som er oddsen for å gjøre det, dermed skal begge to si et tall mellom dette tallet, dersom begge sier det samme, må -2- gjøre den drøye tingen", "totalP": 2, "itchy": 0, "title": "Oddsen", "id": 34},
+        {"question": "__ hvem vil du gifte deg med, pule og drepe av __, __, __", "totalP": 4, "itchy": 1, "title": "Marry Fuck Kill", "underQ":"Ektefellen tar 2 slurker, puleofferet tar 4 slurker og drapsofferet tar 6 slurker", "id": 35},
+        {"question": "__ skal holde en tale på 60 sekunder for __, om hva som er bra med -2-", "totalP": 2, "itchy": 1, "title": "Tale", "underQ":"Taleren kan dele ut 6 slurker", "id": 36},
+        {"question": "Alle skal på rundgang si en fin ting til __, den til venstre for -1- starter", "totalP": 1, "itchy": 1, "title": "Ros", "underQ":"Den roste skal da ta like mange slurker som antall personer i spillet", "id": 37},
+        {"question": "Alle jenter må ta 2 slurker", "totalP": 0, "itchy": 0, "title": "Alle jenter er horer", "id": 38}, 
+        {"question": "Alle gutter må ta 2 slurker", "totalP": 0, "itchy": 0, "title": "Alle gutter er horer", "id": 39}
+    ],
+    "questions2": [
+        {"question": "__ finner på et ord, og så går dere i rundgang på å finne ord som rimer med ordet, første mann som sier noe som er sagt fra før eller ikke finner på noe innen 5 sekunder må ta 3 slurker", "totalP": 1, "itchy": 1, "title": "Rim", "id": 0}, 
+        {"question": "__ fortell en ting som enten er en løgn eller sannhet om deg selv, alle skal dermed gjette samtidig om det er fleip eller fakta", "totalP": 1, "itchy": 1, "title": "Fleip Eller Fakta","underQ":"De som tok feil må ta 2 slurker, de som tok riktig kan dele ut 2 slurker", "id": 1}, 
+        {"question": "__ list opp 5 i kategorien: -k-, innen 10 sekunder", "totalP": 1, "itchy": 1, "title": "Stress","underQ":"Hvis du ikke klarer det må du ta 3 slurker, hvis du klarer det kan du dele ut 5 slurker", "id": 2}, 
+        {"question": "__ har nå 30 sekunder på seg til å liste opp flest mulige ting i kategorien: -k-. For hver nye ting som blir sagt, kan -1- dele ut 1 slurk", "totalP": 1, "itchy": 0, "title": "Gylden Mulighet", "underQ":"Hvis personen ikke klarer mer enn 10 ting, så må personen ta 4 slurker","id": 3}, 
+        {"question": "__ og __, på tur skal dere liste opp ting i kategorien: -k-. Første person som sier noe som er sagt eller ikke finner på mer har tapt, alle andre skal vedde 2 slurker på hvem de tror vinner vinner", "totalP": 2, "itchy": 0, "title": "Kategoriløp","underQ":"Dersom den du veddet på vant, kan du dele ut slurkene dine, dersom du tapte må du drikke de", "id": 4},
+        {"question":"Noen tar tiden, alle skal på rundgang stille __ et spørsmål, og så skal -1- gjette når 45 sekunder har gått", "totalP":1,"itchy":1,"title":"45 Sekunder","underQ":"Personen skal ta antall sekunder de var unna 45 sekunder i slurker, hvis personen tar akkurat 45 sekunder må alle andre ta 2 slurker","id":7},
+        {"title": "SP",
+         "question": [
+            {"question": "Hver person skal fortelle noe de aldri har gjort, dersom du har gjort det som blir sagt må du drikke 1 slurk, den eldste personen starter", "totalP": 0, "itchy": 1, "title": "Jeg Har Faktisk Aldri", "id": 5}, 
+            {"question": "__, __, __, __ og __ fortell oss noe dere aldri har gjort, dersom du har gjort det som blir sagt må du drikke 1 slurk, den eldste personen starter", "totalP": 5, "itchy": 1, "title": "Jeg Har Faktisk Aldri", "id": 5}
+        ]
+        },
+        {"title": "SP",
+            "question": [
+               {"question": "Alle skal på tur fortelle om en ting de tror de er den eneste i rommet som har gjort. Alle andre skal så ta en slurk hvis de har gjort det. Hvis ingen drikker kan man dele ut 10 slurker, den yngste starter", "totalP": 0, "itchy": 1, "title": "Er jeg den eneste?", "id": 6}, 
+               {"question": "__, __, __, __ og __ skal på tur fortelle om en ting dere tror dere er den eneste i rommet som har gjort. Alle andre skal så ta en slurk hvis de har gjort det. Hvis ingen drikker kan man dele ut 10 slurker, den yngste av de starter", "totalP": 5, "itchy": 1, "title": "Er jeg den eneste?", "id": 6}            
+           ]
+           },
+        {"title": "Nødt",
+        "underQ": "Gjør personen det kan de dele ut 6 slurker, dersom de ikke gjør det må de ta 6 slurker",
+        "question": [
+                        {"question": "__, les opp den siste meldingen du har fått", "totalP": 1, "itchy": 0, "id": 0}, 
+                        {"question": "__, lat som du har sex i 15 sekunder", "totalP": 1, "itchy": 0, "id": 1}, 
+                        {"question": "__, la noen tegne på deg, hvorhen du vil", "totalP": 1, "itchy": 0, "id": 2}, 
+                        {"question": "__, prøv deg på __", "totalP": 2, "itchy": 0, "id": 3}, 
+                        {"question": "__, lukt på alle sine føtter, og fortell oss hvem som har verst lukt", "totalP": 1, "itchy": 0, "id": 4}, 
+                        {"question": "__, la noen poste på en av dine sosiale medier", "totalP": 1, "itchy": 0, "id": 5}, 
+                        {"question": "__, køddering noen", "totalP": 1, "itchy": 0, "id": 6}, 
+                        {"question": "__, la noen blåse i øret ditt", "totalP": 1, "itchy": 0, "id": 7}, 
+                        {"question": "__, si Jeg Elsker Deg til den første fremmede du møter iløpet av kvelden, men du får ikke si det er på grunn av et spill", "totalP": 1, "itchy": 0, "id": 8}, 
+                        {"question": "__, ta et bodyshot av __", "totalP": 2, "itchy": 0, "id": 9}, 
+                        {"question": "__, start en samtale med noen du er interessert i over meldinger", "totalP": 1, "itchy": 0, "id": 10}, 
+                        {"question": "__, få armene dine bundet sammen resten av spillet", "totalP": 1, "itchy": 0, "id": 11}, 
+                        {"question": "__ må ha bind for øynene resten av spillet", "totalP": 1, "itchy": 0, "id": 12}, 
+                        {"question": "__, gå rundt å gi alle en klem", "totalP": 1, "itchy": 1, "id": 13}, 
+                        {"question": "__, gå på alle fire og la noen spanke deg", "totalP": 1, "itchy": 0, "id": 14}, 
+                        {"question": "__, sitt på fanget til __ resten av spillet", "totalP": 2, "itchy": 0, "id": 15}, 
+                        {"question": "__, ta av deg buksa resten av spillet", "totalP": 1, "itchy": 0, "id": 16}, 
+                        {"question": "__, gi en massasje til __ i 3 minutter", "totalP": 2, "itchy": 0, "id": 17}, 
+                        {"question": "__, gi __ en striptease", "totalP": 2, "itchy": 0, "id": 18}, 
+                        {"question": "__, bestem en ting som __ må slikke", "totalP": 2, "itchy": 0, "id": 19}, 
+                        {"question": "__, prøv å åpne buksesmekken til __ med tennene", "totalP": 2, "itchy": 0, "id": 20}, 
+                        {"question": "__, la __ daske deg i ansiktet", "totalP": 2, "itchy": 0, "id": 21}, 
+                        {"question": "__, post en lang rant på facebooken din av hva som helst, og dermed la den ligge der i 15 min", "totalP": 1, "itchy": 0, "id": 22}, 
+                        {"question": "__, bytt klær med __ for resten av spillet", "totalP": 2, "itchy": 0, "id": 23}, 
+                        {"question": "__, gå inn på et rom alene med __ i minst 5 min", "totalP": 2, "itchy": 0, "id": 24}, 
+                        {"question": "__, slikk armhulen til __", "totalP": 2, "itchy": 0, "id": 25}, 
+                        {"question": "__, kyss __ hvorhen -2- vil", "totalP": 2, "itchy": 0, "id": 26}, 
+                        {"question": "__, sett på en sang du må synge foran alle andre", "totalP": 1, "itchy": 0, "id": 27}, 
+                        {"question": "__, la gruppa bestemme en ting du må skrike ut av vinduet", "totalP": 1, "itchy": 0, "id": 28}, 
+                        {"question": "__, bit øret til __", "totalP": 2, "itchy": 0, "id": 29},
+                        {"question": "__, prøv å legg __ ned i bakken", "totalP": 2, "itchy": 0, "id": 30}
+                    ]
+                
+            }
+    ],
+    "tb": [
+        {"question": "Etter hvert spørsmål så skal telefonen bli sendt til den til venstre, den som holder telefonen når bomben sprenger får en overraskelse", "totalP": 0, "itchy": 1, "title": "Timebomb", "id": 9}, 
+
+        {"question": "Personen som holder telefonen må ta av seg 3 plagg med klær", "totalP": 0, "itchy": 1, "title": "Boom!", "id": 10}, 
+        {"question": "Personen som holder telefonen kan gi ut 20 slurker, men må chugge resten av drikken sin", "totalP": 0, "itchy": 1, "title": "Boom! ", "id": 11}, 
+        {"question": "Personen som holder telefonen må gjøre 3 ting som gruppa bestemmer", "totalP": 0, "itchy": 1, "title": "Boom!", "id": 12}, 
+        {"question": "Personen som holder telefonen må kysse enten personen til venstre eller høyre hvorhen de vil bli kysset", "totalP": 0, "itchy": 1, "title": "Boom! ", "id": 13}    
+    ],
+    "superQ": [
+        {"question": "__ bytt plass med __", "totalP": 0, "itchy": 1, "title": "Move Your Asses!", "id": 0}, 
+        {"question": "__ gi __ et nytt kallenavn, hvis noen kaller den personen noe annet må de ta 1 slurk", "totalP": 0, "itchy": 1, "title": "Kallenavn", "id": 1}, 
+        {"question": "__ velg en drikkepartner", "totalP": 0, "itchy": 1, "title": "Drikkepartner", "underQ":"Hver gang drikkepartneren din drikker, må du drikke", "id": 2}, 
+        {"question": "__ planlegg en hemmelig regel med personen til venstre, blir regelen brutt skal regelmakerne bjeffe og regelbryteren må drikke, hvis noen finner ut av regelen må regelmakerne ta 15 slurker", "totalP": 0, "itchy": 1, "title": "Hemmelig Regel", "id": 3}     
+    ]
+}

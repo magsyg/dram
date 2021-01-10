@@ -1,0 +1,713 @@
+{
+        "title": "Jeg har aldri",
+        "underQ": "Dersom du har gjort det må du ta 1 slurk",
+        "question": [
+                {"question": "Hatt sex i en bil", "totalP": 0, "itchy": 0, "id": 0},  
+
+                {"question": "Sendt Nudes", "totalP": 0, "itchy": 0, "id": 1},  
+
+                {"question": "Vært på Tinder", "totalP": 0, "itchy": 0, "id": 2},  
+
+                {"question": "Hatt en våt drøm", "totalP": 0, "itchy": 0, "id": 3},  
+
+                {"question": "Ikke fått den opp når det var nødvendig", "totalP": 0, "itchy": 0, "id": 4},  
+
+                {"question": "Hatt følelser eller kysset noen i dette rommet", "totalP": 0, "itchy": 0, "id": 5},  
+
+                {"question": "Hatt en trekant", "totalP": 0, "itchy": 0, "id": 6},  
+
+                {"question": "Kysset noen av samme kjønn", "totalP": 0, "itchy": 0, "id": 7},  
+
+                {"question": "Hatt Sex", "totalP": 0, "itchy": 0, "id": 8},  
+
+                {"question": "Hatt Netflix and chill", "totalP": 0, "itchy": 0, "id": 9},  
+
+                {"question": "Onanert til noen jeg kjenner", "totalP": 0, "itchy": 0, "id": 10},  
+
+                {"question": "Møtt et familiemedlem etter et One Night Stand", "totalP": 0, "itchy": 0, "id": 11},  
+
+                {"question": "Hatt sex imens en av oss hadde mensen", "totalP": 0, "itchy": 0, "id": 12},  
+
+                {"question": "Vært glad for å ha fått mensen", "totalP": 0, "itchy": 0, "id": 13},  
+
+                {"question": "Hatt sex på do", "totalP": 0, "itchy": 0, "id": 14},  
+
+                {"question": "Hatt sex i dusjen", "totalP": 0, "itchy": 0, "id": 15},  
+
+                {"question": "Hatt sex i et badekar", "totalP": 0, "itchy": 0, "id": 16},  
+
+                {"question": "Hatt sex i noen andre sin seng", "totalP": 0, "itchy": 0, "id": 17},  
+
+                {"question": "Hatt sex utendørs", "totalP": 0, "itchy": 0, "id": 18},  
+
+                {"question": "Hatt sex på jobben", "totalP": 0, "itchy": 0, "id": 19},  
+
+                {"question": "Hatt sex på et hotel", "totalP": 0, "itchy": 0, "id": 20},  
+
+                {"question": "Hatt folk gå inn på meg ha sex", "totalP": 0, "itchy":0 , "id": 21},  
+
+                {"question": "Gått inn på noen som hadde sex", "totalP": 0, "itchy": 0, "id": 22},  
+
+                {"question": "Hatt sex med noen jeg tidligere hadde bare tenkt på som en venn", "totalP": 0, "itchy": 0, "id": 23},  
+    
+                {"question": "Hatt sex på noe oppblåsbart", "totalP": 0, "itchy": 0, "id": 24},  
+        
+                {"question": "Sovet over hos noen som var interessert i å pule, uten å pule", "totalP": 0, "itchy": 0, "id": 25},  
+        
+                {"question": "Pult i et kostyme", "totalP": 0, "itchy": 0, "id": 26},  
+        
+                {"question": "Hatt rollespill i senga", "totalP": 0, "itchy": 0, "id": 27},  
+        
+                {"question": "Masturbert sammen med noen over internett", "totalP": 0, "itchy": 0, "id": 28},  
+        
+                {"question": "Hatt sex i en sovepose", "totalP": 0, "itchy": 0, "id": 29},  
+        
+                {"question": "Gitt eller fått en fotjobb", "totalP": 0, "itchy": 0, "id": 30},  
+        
+                {"question": "Gitt eller fått en tittyfuck", "totalP": 0, "itchy": 0, "id": 31},  
+        
+                {"question": "Hatt 69", "totalP": 0, "itchy": 0, "id": 32},  
+        
+                {"question": "Lagd en liste over alle du har pult", "totalP": 0, "itchy": 0, "id": 33},  
+        
+                {"question": "Hooket med noen jeg ikke husker å ha gjort det med", "totalP": 0, "itchy": 0, "id": 34},  
+        
+                {"question": "Tatt en jomfrudom", "totalP": 0, "itchy": 0, "id": 35},  
+        
+                {"question": "Sett andre hatt sex i virkeligheten", "totalP": 0, "itchy": 0, "id": 36},  
+        
+                {"question": "Hatt sex i utlandet", "totalP": 0, "itchy": 0, "id": 37},  
+        
+                {"question": "Hatt sex på en familieferie", "totalP": 0, "itchy": 0, "id": 38},  
+        
+                {"question": "Sett på Hentai", "totalP": 0, "itchy": 0, "id": 39},  
+        
+                {"question": "Hatt sæd i ansiktet", "totalP": 0, "itchy": 0, "id": 40},  
+        
+                {"question": "Svelget sæd", "totalP": 0, "itchy": 0, "id": 41},  
+        
+                {"question": "Kvelt eller blitt kvelt under sex", "totalP": 0, "itchy": 0, "id": 42},  
+        
+                {"question": "Spanket eller blitt spanket under sex", "totalP": 0, "itchy": 0, "id": 43},  
+        
+                {"question": "Hatt sex med mer enn 2 forskjellige folk på under 24 timer", "totalP": 0, "itchy": 0, "id": 44},  
+        
+                {"question": "Prøvd anal", "totalP": 0, "itchy": 0, "id": 45},  
+        
+                {"question": "Dratt på en date med noen fra en datingapp", "totalP": 0, "itchy": 1, "id": 46},  
+        
+                {"question": "Angret på å ha pult eller hooket noen", "totalP": 0, "itchy": 0, "id": 47},  
+        
+                {"question": "Testet meg for kjønnssykdommer", "totalP": 0, "itchy": 0, "id": 48},  
+        
+                {"question": "Vært i et hemmelig forhold", "totalP": 0, "itchy": 1, "id": 49},  
+        
+                {"question": "Vært i et forhold med noen fra samme skole eller jobb", "totalP": 0, "itchy": 1, "id": 50},  
+        
+                {"question": "Klart å gjøre noe med et crush", "totalP": 0, "itchy": 0, "id": 51},  
+        
+                {"question": "Hatt en pulevenn", "totalP": 0, "itchy": 0, "id": 52},  
+        
+                {"question": "Hatt sex med noen du har kjent i mindre enn en dag", "totalP": 0, "itchy": 0, "id": 53},  
+        
+                {"question": "Blitt tatt i å se på porno", "totalP": 0, "itchy": 0, "id": 54},  
+        
+                {"question": "Blitt tatt i å masturbere", "totalP": 0, "itchy": 0, "id": 55},  
+        
+                {"question": "Sett på noe relatert til Rule 34", "totalP": 0, "itchy": 0, "id": 56},  
+        
+                {"question": "Hatt sex i et telt", "totalP": 0, "itchy": 0, "id": 57},  
+        
+                {"question": "Forfalsket en orgasme", "totalP": 0, "itchy": 0, "id": 58},  
+        
+                {"question": "Tisset på noen", "totalP": 0, "itchy": 0, "id": 59},  
+        
+                {"question": "Kjørt med promille", "totalP": 0, "itchy": 0, "id": 60},  
+        
+                {"question": "Vært nikotinavhengig", "totalP": 0, "itchy": 1, "id": 61},  
+        
+                {"question": "Gått en walk of shame", "totalP": 0, "itchy": 0, "id": 62},  
+        
+                {"question": "Tatt en svangerskapstest", "totalP": 0, "itchy": 0, "id": 63},  
+        
+                {"question": "Hatt sex uten beskyttelse", "totalP": 0, "itchy": 0, "id": 64},  
+        
+                {"question": "Blitt arrestert", "totalP": 0, "itchy": 1, "id": 65},  
+        
+                {"question": "Brukt brunkrem eller spraytan", "totalP": 0, "itchy": 1, "id": 66},  
+        
+                {"question": "Smisket med læreren for bedre karakter", "totalP": 0, "itchy": 1, "id": 67},  
+        
+                {"question": "Skulket skolen", "totalP": 0, "itchy": 1, "id": 68},  
+        
+                {"question": "Laget et meme", "totalP": 0, "itchy": 1, "id": 69},  
+        
+                {"question": "Brukt solbriller fordi det er kult", "totalP": 0, "itchy": 1, "id": 70},  
+        
+                {"question": "Hatt et crush på en kjendis", "totalP": 0, "itchy": 1, "id": 71},  
+        
+                {"question": "Spist så mye godteri at jeg spydde", "totalP": 0, "itchy": 1, "id": 72},  
+        
+                {"question": "Sittet inne og sett på serier eller spillt videospill i en hel dag", "totalP": 0, "itchy": 1, "id": 73},  
+        
+                {"question": "Blitt dumpa", "totalP": 0, "itchy": 1, "id": 74},  
+        
+                {"question": "Blitt avslått hardt av noen", "totalP": 0, "itchy": 1, "id": 75},  
+        
+                {"question": "Røyket", "totalP": 0, "itchy": 1, "id": 76},  
+        
+                {"question": "Snuset", "totalP": 0, "itchy": 1, "id": 77},  
+        
+                {"question": "Vært noen sin bitch", "totalP": 0, "itchy": 1, "id": 78},  
+        
+                {"question": "Avslått noen", "totalP": 0, "itchy": 1, "id": 79},  
+        
+                {"question": "Stalket noen", "totalP": 0, "itchy": 1, "id": 80},  
+        
+                {"question": "Mistet en venn fordi jeg var en drittsekk", "totalP": 0, "itchy": 1, "id": 81},  
+        
+                {"question": "Tatt opp kontakten med en ex", "totalP": 0, "itchy": 1, "id": 82},  
+        
+                {"question": "Vært en weeb", "totalP": 0, "itchy": 1, "id": 83},  
+        
+                {"question": "Stjålet noen andre sin drikke", "totalP": 0, "itchy": 1, "id": 84},  
+        
+                {"question": "Kjeftet på noen jeg ikke kjente", "totalP": 0, "itchy": 1, "id": 85},  
+        
+                {"question": "Sett The Office", "totalP": 0, "itchy": 1, "id": 86},  
+        
+                {"question": "Sett Game of Thrones", "totalP": 0, "itchy": 1, "id": 87},  
+        
+                {"question": "Sett Brooklyn 99", "totalP": 0, "itchy": 1, "id": 88},  
+        
+                {"question": "Sett Breaking Bad", "totalP": 0, "itchy": 1, "id": 89},  
+        
+                {"question": "Sett Rick and Morty", "totalP": 0, "itchy": 1, "id": 90},  
+        
+                {"question": "Sett Friends", "totalP": 0, "itchy": 1, "id": 91},  
+        
+                {"question": "Sett Glee", "totalP": 0, "itchy": 1, "id": 92},  
+        
+                {"question": "Sett The Walking Dead", "totalP": 0, "itchy": 1, "id": 93},  
+        
+                {"question": "Sett Stranger Things", "totalP": 0, "itchy": 1, "id": 94},  
+        
+                {"question": "Sett 13 Reasons Why", "totalP": 0, "itchy": 1, "id": 95},  
+        
+                {"question": "Gitt noen jeg likte roser eller konfekt", "totalP": 0, "itchy": 1, "id": 96},  
+        
+                {"question": "Hatt et kjæledyr", "totalP": 0, "itchy": 1, "id": 97},  
+        
+                {"question": "Spist Fast Food til frokost", "totalP": 0, "itchy": 1, "id": 98},  
+        
+                {"question": "Prøvd å være veganer eller vegetarianer", "totalP": 0, "itchy": 1, "id": 99},  
+        
+                {"question": "Skjenket noen alkohol", "totalP": 0, "itchy": 1, "id": 100},  
+        
+                {"question": "Hatt et crush på noen jeg ikke kjente", "totalP": 0, "itchy": 1, "id": 101},  
+        
+                {"question": "Sendt et kjærlighetsbrev", "totalP": 0, "itchy": 1, "id": 102},  
+        
+                {"question": "Hatt følelser for en person vennen min også likte", "totalP": 0, "itchy": 1, "id": 103},  
+        
+                {"question": "Gjort noe med vennen til noen jeg var keen på", "totalP": 0, "itchy": 1, "id": 104},  
+        
+                {"question": "Gjort noe med vennen til noen som var keen på meg", "totalP": 0, "itchy": 1, "id": 105},  
+        
+                {"question": "Prøvd dop", "totalP": 0, "itchy": 1, "id": 106},  
+        
+                {"question": "Røyket hasj", "totalP": 0, "itchy": 1, "id": 107},  
+        
+                {"question": "Funnet en ny en innen 2 uker etter et brudd", "totalP": 0, "itchy": 1, "id": 108},  
+        
+                {"question": "Vært i et trekantdrama", "totalP": 0, "itchy": 1, "id": 109},  
+        
+                {"question": "Blitt eskortert hjem av politiet", "totalP": 0, "itchy": 1, "id": 110},  
+        
+                {"question": "Blitt satt i fyllearresten", "totalP": 0, "itchy": 1, "id": 111},  
+        
+                {"question": "Hatt problemer med noen vektere eller politiet", "totalP": 0, "itchy": 1, "id": 112},  
+        
+                {"question": "Vært i en slåsskamp", "totalP": 0, "itchy": 1, "id": 113},  
+        
+                {"question": "Blitt angrepet av et dyr", "totalP": 0, "itchy": 1, "id": 114},  
+        
+                {"question": "Drept et dyr", "totalP": 0, "itchy": 1, "id": 115},  
+        
+                {"question": "Vært utenfor Europa", "totalP": 0, "itchy": 1, "id": 116},  
+        
+                {"question": "Vært i USA", "totalP": 0, "itchy": 1, "id": 117},  
+        
+                {"question": "Vært i Japan", "totalP": 0, "itchy": 1, "id": 118},  
+        
+                {"question": "Vært livredd for at noe usannsynlig skulle skje med meg", "totalP": 0, "itchy": 1, "id": 119},  
+        
+                {"question": "Brukket et bein", "totalP": 0, "itchy": 1, "id": 120},  
+        
+                {"question": "Forstuet noe", "totalP": 0, "itchy": 1, "id": 121},  
+        
+                {"question": "Kjørt ulovlig", "totalP": 0, "itchy": 1, "id": 122},  
+        
+                {"question": "Ikke visst hvor jeg var da jeg våkna opp", "totalP": 0, "itchy": 1, "id": 123},  
+        
+                {"question": "Sett en venn spille noe profesjonelt", "totalP": 0, "itchy": 1, "id": 124},  
+        
+                {"question": "Hatt en ekte jobb", "totalP": 0, "itchy": 1, "id": 125},  
+        
+                {"question": "Dratt på treningstudio regelmessig", "totalP": 0, "itchy": 1, "id": 126},  
+        
+                {"question": "Slått noen som var mye bedre enn meg i noe", "totalP": 0, "itchy": 1, "id": 127},  
+        
+                {"question": "Latt noen andre vinne ut av medlidenhet", "totalP": 0, "itchy": 1, "id": 128},  
+        
+                {"question": "Vært seksuelt forvirret", "totalP": 0, "itchy": 1, "id": 129},  
+        
+                {"question": "Hatt en tørke som har vart i mer enn et halvt år", "totalP": 0, "itchy": 1, "id": 130},  
+        
+                {"question": "Hatt en fase", "totalP": 0, "itchy": 1, "id": 131},  
+        
+                {"question": "Masturbert mer enn 5 ganger på en dag", "totalP": 0, "itchy": 1, "id": 132},  
+        
+                {"question": "Hatt sex mer enn 6 ganger på en dag", "totalP": 0, "itchy": 1, "id": 133},  
+        
+                {"question": "Masturbert på et offentlig sted", "totalP": 0, "itchy": 1, "id": 134},  
+        
+                {"question": "Fusket på en prøve", "totalP": 0, "itchy": 1, "id": 135},  
+        
+                {"question": "Vært en bølle", "totalP": 0, "itchy": 1, "id": 136},  
+        
+                {"question": "Gråt under en barnefilm", "totalP": 0, "itchy": 1, "id": 137},  
+        
+                {"question": "Sunget Karaoke", "totalP": 0, "itchy": 1, "id": 138},  
+        
+                {"question": "Tenkt at en tegneseriefigur var ganske heit", "totalP": 0, "itchy": 1, "id": 139},  
+        
+                {"question": "Vært på en scene", "totalP": 0, "itchy": 1, "id": 140},  
+        
+                {"question": "Vært på TV", "totalP": 0, "itchy": 1, "id": 141},  
+        
+                {"question": "Vært i avisa", "totalP": 0, "itchy": 1, "id": 142},  
+        
+                {"question": "Vært starstrucked", "totalP": 0, "itchy": 1, "id": 143},  
+        
+                {"question": "Googla noe for å sjekke hvordan det var stavet", "totalP": 0, "itchy": 1, "id": 144},  
+        
+                {"question": "Prompet foran noen jeg likte", "totalP": 0, "itchy": 1, "id": 145},  
+        
+                {"question": "Gått inn på noen som var på do", "totalP": 0, "itchy": 1, "id": 146},  
+        
+                {"question": "Sendt en tekstmelding til feil person", "totalP": 0, "itchy": 1, "id": 147},  
+        
+                {"question": "Løpt hjem om kvelden, siden jeg var redd", "totalP": 0, "itchy": 1, "id": 148},  
+        
+                {"question": "Trodd at noen var noen andre", "totalP": 0, "itchy": 1, "id": 149},  
+        
+                {"question": "Gitt meg selv en hårklipp", "totalP": 0, "itchy": 1, "id": 150},  
+        
+                {"question": "Farget håret", "totalP": 0, "itchy": 1, "id": 151},  
+    
+                {"question": "Dritet på et offentlig toalett", "totalP": 0, "itchy": 1, "id": 152},  
+        
+                {"question": "Dritet ute", "totalP": 0, "itchy": 1, "id": 153},  
+        
+                {"question": "Tisset ute", "totalP": 0, "itchy": 1, "id": 154},  
+        
+                {"question": "Tisset et sted på badet som ikke var en do", "totalP": 0, "itchy": 1, "id": 155},  
+        
+                {"question": "Blacka ut", "totalP": 0, "itchy": 1, "id": 156},  
+        
+                {"question": "Spist barnemat etter barndommen", "totalP": 0, "itchy": 1, "id": 157},  
+        
+                {"question": "Rømt fra autoriteter", "totalP": 0, "itchy": 1, "id": 158},  
+        
+                {"question": "Sneket meg inn et sted jeg ikke skulle være", "totalP": 0, "itchy": 1, "id": 159},  
+        
+                {"question": "Sneket meg ut for å møte noen", "totalP": 0, "itchy": 1, "id": 160},  
+        
+                {"question": "Vært full med familien", "totalP": 0, "itchy": 1, "id": 161},  
+        
+                {"question": "Fått en fremmed til å gi meg alkohol", "totalP": 0, "itchy": 1, "id": 162},  
+        
+                {"question": "Møtt foreldrene til noen jeg holdt på med", "totalP": 0, "itchy": 1, "id": 163},  
+        
+                {"question": "Hatt en One Night stand", "totalP": 0, "itchy": 1, "id": 164},  
+        
+                {"question": "Hatt et crush på en venns familiemedlem", "totalP": 0, "itchy": 1, "id": 165},  
+        
+                {"question": "Gjort noe seksuelt med en venns familiemedlem", "totalP": 0, "itchy": 1, "id": 166},  
+        
+                {"question": "Spillt klespoker", "totalP": 0, "itchy": 1, "id": 167},  
+        
+                {"question": "Gitt telefonnummeret mitt til noen jeg var interessert i", "totalP": 0, "itchy": 1, "id": 168},  
+        
+                {"question": "Løyet om kontaktinformasjonen min til en fremmed", "totalP": 0, "itchy": 1, "id": 169},  
+        
+                {"question": "Hatt et crush på en lærer", "totalP": 0, "itchy": 1, "id": 170},  
+        
+                {"question": "Vært sjalu på en venn sitt forhold", "totalP": 0, "itchy": 1, "id": 171},  
+        
+                {"question": "Vært sjalu på kjæresten", "totalP": 0, "itchy": 1, "id": 172},  
+        
+                {"question": "Besvimt", "totalP": 0, "itchy": 1, "id": 173},  
+        
+                {"question": "Dratt på fjelltur", "totalP": 0, "itchy": 1, "id": 174},  
+        
+                {"question": "Hatt sex i en skog", "totalP": 0, "itchy": 1, "id": 175},  
+        
+                {"question": "Hatt sex på et utested", "totalP": 0, "itchy": 1, "id": 176},  
+        
+                {"question": "Tatt noen sjuke russeknuter", "totalP": 0, "itchy": 1, "id": 177},  
+        
+                {"question": "Brukt en fake ID", "totalP": 0, "itchy": 1, "id": 178},  
+        
+                {"question": "Kjøpt med aksjer", "totalP": 0, "itchy": 1, "id": 179},  
+        
+                {"question": "Drevet med kryptovaluta", "totalP": 0, "itchy": 1, "id": 180},  
+        
+                {"question": "Tatt en tatovering", "totalP": 0, "itchy": 1, "id": 181},  
+        
+                {"question": "Blitt kastet ut av et utested", "totalP": 0, "itchy": 1, "id": 182},  
+        
+                {"question": "Tisset i badebassenget", "totalP": 0, "itchy": 1, "id": 183},  
+        
+                {"question": "Ledd av mine egne vitser", "totalP": 0, "itchy": 1, "id": 184},  
+        
+                {"question": "Dratt på hyttetur med venner", "totalP": 0, "itchy": 1, "id": 185},  
+        
+                {"question": "Vært full i skogen", "totalP": 0, "itchy": 1, "id": 186},  
+        
+                {"question": "Vært på en jævlig date", "totalP": 0, "itchy": 1, "id": 187},  
+        
+                {"question": "Hostet en fest", "totalP": 0, "itchy": 1, "id": 188},  
+        
+                {"question": "Dratt på en fest hvor jeg ikke kjente noen, men likevel hatt det gøy", "totalP": 0, "itchy": 1, "id": 189},  
+        
+                {"question": "Byttet musikken på en fest", "totalP": 0, "itchy": 1, "id": 190},  
+        
+                {"question": "Bommet en snus eller sigarett av en fremmed", "totalP": 0, "itchy": 1, "id": 191},  
+        
+                {"question": "Vært i konflikt med en nabo", "totalP": 0, "itchy": 1, "id": 192},  
+        
+                {"question": "Nakenbadet", "totalP": 0, "itchy": 1, "id": 193},  
+        
+                {"question": "Langet alkohol til mindreårige", "totalP": 0, "itchy": 1, "id": 194},  
+        
+                {"question": "Syntes at en baby var ekstremt søt", "totalP": 0, "itchy": 1, "id": 195},  
+        
+                {"question": "Gamblet med ekte penger", "totalP": 0, "itchy": 1, "id": 196},  
+        
+                {"question": "Dratt på sommerleir", "totalP": 0, "itchy": 1, "id": 197},  
+        
+                {"question": "Savnet en ex", "totalP": 0, "itchy": 1, "id": 198},  
+        
+                {"question": "Løyet under dette spillet", "totalP": 0, "itchy": 1, "id": 199},  
+        
+                {"question": "Vært så full at jeg ikke kom hjem", "totalP": 0, "itchy": 1, "id": 200},  
+        
+                {"question": "Skutt med en ekte pistol", "totalP": 0, "itchy": 1, "id": 201},  
+        
+                {"question": "Blitt kastet ut av klassen", "totalP": 0, "itchy": 1, "id": 202},  
+        
+                {"question": "Sovnet på skolen eller jobben", "totalP": 0, "itchy": 1, "id": 203},  
+        
+                {"question": "Hoppet fra 10 meteren", "totalP": 0, "itchy": 1, "id": 204},  
+        
+                {"question": "Stjålet alkohol fra foreldrene", "totalP": 0, "itchy": 1, "id": 205},  
+        
+                {"question": "Dusjet med flere enn 2 personer", "totalP": 0, "itchy": 1, "id": 206},  
+        
+                {"question": "Hatt en sommerflørt", "totalP": 0, "itchy": 1, "id": 207},  
+        
+                {"question": "Vært i et forhold", "totalP": 0, "itchy": 1, "id": 208},  
+        
+                {"question": "Mistet noen som var nær meg", "totalP": 0, "itchy": 1, "id": 209},  
+        
+                {"question": "Hatt en blog eller vlog", "totalP": 0, "itchy": 1, "id": 210},  
+        
+                {"question": "Latet som jeg ikke kjente noen", "totalP": 0, "itchy": 1, "id": 211},  
+        
+                {"question": "Sett en død person", "totalP": 0, "itchy": 1, "id": 212},  
+        
+                {"question": "Hatt en nær døden opplevelse", "totalP": 0, "itchy": 1, "id": 213},  
+        
+                {"question": "Vært på konsert", "totalP": 0, "itchy": 1, "id": 214},  
+        
+                {"question": "Vært på sykehus", "totalP": 0, "itchy": 1, "id": 215},  
+        
+                {"question": "Sovna på kollektivtransport og mista stoppet mitt", "totalP": 0, "itchy": 0, "id": 216},  
+        
+                {"question": "Hatt en favorittpornostjerne", "totalP": 0, "itchy": 1, "id": 217},  
+        
+                {"question": "Pult noen som ikke var fra samme land som meg", "totalP": 0, "itchy": 1, "id": 218},  
+        
+                {"question": "Trodd på en konspirasjonsteori", "totalP": 0, "itchy": 1, "id": 219},  
+        
+                {"question": "Trodd jeg hadde spesielle krefter", "totalP": 0, "itchy": 1, "id": 220},  
+        
+                {"question": "Satt av brannalarmen", "totalP": 0, "itchy": 1, "id": 221},  
+        
+                {"question": "Vunnet noe i virkeligheten", "totalP": 0, "itchy": 1, "id": 222},  
+        
+                {"question": "Vært flau over å like noe", "totalP": 0, "itchy": 1, "id": 223},  
+        
+                {"question": "Nytt klassisk musikk", "totalP": 0, "itchy": 1, "id": 224},  
+        
+                {"question": "Likt Kaizers Orchestra", "totalP": 0, "itchy": 1, "id": 225},  
+        
+                {"question": "Lastet ned noe ulovlig", "totalP": 0, "itchy": 1, "id": 226},  
+        
+                {"question": "Laget en sang", "totalP": 0, "itchy": 0, "id": 227},  
+        
+                {"question": "Rullet med en russebuss", "totalP": 0, "itchy": 1, "id": 228},  
+        
+                {"question": "Dratt på kino alene", "totalP": 0, "itchy": 1, "id": 229},  
+        
+                {"question": "Prøvd kokain", "totalP": 0, "itchy": 1, "id": 230},  
+        
+                {"question": "Prøvd MDMA", "totalP": 0, "itchy": 1, "id": 231},  
+        
+                {"question": "Hatt sex med 5 eller flere personer", "totalP": 0, "itchy": 0, "id": 232},  
+        
+                {"question": "Hatt sex med 10 eller flere personer", "totalP": 0, "itchy": 0, "id": 233},  
+        
+                {"question": "Hatt sex med 15 eller flere personer", "totalP": 0, "itchy": 0, "id": 234},  
+        
+                {"question": "Hatt sex med 3 eller flere personer", "totalP": 0, "itchy": 0, "id": 235},  
+        
+                {"question": "Vært i en orgie", "totalP": 0, "itchy": 0, "id": 236},  
+        
+                {"question": "Trengt briller", "totalP": 0, "itchy": 1, "id": 237},  
+        
+                {"question": "Brukt sexleketøy", "totalP": 0, "itchy": 0, "id": 238},  
+        
+                {"question": "Brukt sexleketøy under sex", "totalP": 0, "itchy": 0, "id": 239},  
+        
+                {"question": "Tatt bind for øynene under sex", "totalP": 0, "itchy": 0, "id": 240},  
+        
+                {"question": "Blitt hitta på av noen jeg syntes var ekkel", "totalP": 0, "itchy": 1, "id": 241},  
+        
+                {"question": "Hatt en håpløs romanse", "totalP": 0, "itchy": 0, "id": 242},  
+        
+                {"question": "Møtt noen jeg kjente tilfeldig på en helsestasjon", "totalP": 0, "itchy": 0, "id": 243},  
+        
+                {"question": "Vært skikkelig skuffet etter sex", "totalP": 0, "itchy": 0, "id": 244},  
+        
+                {"question": "Hooket eller pult 2 folk som var bestevenner", "totalP": 0, "itchy": 0, "id": 245},  
+        
+                {"question": "Vært i en friendzone", "totalP": 0, "itchy": 1, "id": 246},  
+        
+                {"question": "Unngått noen", "totalP": 0, "itchy": 1, "id": 247},  
+        
+                {"question": "Vært på Harry-tur", "totalP": 0, "itchy": 1, "id": 248},  
+        
+                {"question": "Vært på festival", "totalP": 0, "itchy": 1, "id": 249},  
+        
+                {"question": "Pult en mindreårig eller pult som mindreårig", "totalP": 0, "itchy": 0, "id": 250},  
+        
+                {"question": "Kastet opp av å chugge en øl", "totalP": 0, "itchy": 1, "id": 251},  
+        
+                {"question": "Sett på Step-porno", "totalP": 0, "itchy": 0, "id": 253},  
+        
+                {"question": "Sovna på dass", "totalP": 0, "itchy": 1, "id": 254},  
+        
+                {"question": "Kasta opp på noen", "totalP": 0, "itchy": 1, "id": 255},  
+        
+                {"question": "Kasta opp på grunn av alkohol foran et familiemedlem", "totalP": 0, "itchy": 1, "id": 256},  
+        
+                {"question": "Brent pizzaen i ovnen", "totalP": 0, "itchy": 1, "id": 257},  
+        
+                {"question": "Hatt sex med noen her", "totalP": 0, "itchy": 0, "id": 258},  
+        
+                {"question": "Mista noe ute på en kveld på byen", "totalP": 0, "itchy": 1, "id": 259},  
+        
+                {"question": "Spist mat som var søppel", "totalP": 0, "itchy": 1, "id": 260},  
+        
+                {"question": "Hatt sex på vaskerommet", "totalP": 0, "itchy": 0, "id": 261},  
+        
+                {"question": "Hatt sex i stua", "totalP": 0, "itchy": 0, "id": 262},  
+        
+                {"question": "Spandert drikke på noen", "totalP": 0, "itchy": 1, "id": 263},  
+        
+                {"question": "Blitt påspandert drikke av noen", "totalP": 0, "itchy": 1, "id": 264},  
+        
+                {"question": "Måttet skjule et sugemerke", "totalP": 0, "itchy": 1, "id": 265},  
+        
+                {"question": "Gitt noen et grovt sugemerke for moroskyld", "totalP": 0, "itchy": 1, "id": 266},  
+        
+                {"question": "Løpt fra regninga", "totalP": 0, "itchy": 1, "id": 267},  
+        
+                {"question": "Vært i et ustabilt forhold", "totalP": 0, "itchy": 1, "id": 268},  
+        
+                {"question": "Hatt sex med exen etter å ha slått opp", "totalP": 0, "itchy": 1, "id": 269},  
+        
+                {"question": "Blitt sammen med igjen med en ex", "totalP": 0, "itchy": 1, "id": 270},  
+        
+                {"question": "Måttet gå en tur før jeg kunne gå inn på et utested pågrunn av fylla", "totalP": 0, "itchy": 1, "id": 271},  
+        
+                {"question": "Sneket meg inn på en fest", "totalP": 0, "itchy": 1, "id": 272},  
+        
+                {"question": "Drukket hjemmebrent", "totalP": 0, "itchy": 1, "id": 273},  
+        
+                {"question": "Drukket mer noe mer en 60%", "totalP": 0, "itchy": 1, "id": 274},  
+        
+                {"question": "Drukket en hel flaske 30%+ på egenhånd", "totalP": 0, "itchy": 1, "id": 275},  
+        
+                {"question": "Hatt sex den siste uka", "totalP": 0, "itchy": 0, "id": 276},  
+        
+                {"question": "Mottatt nudes", "totalP": 0, "itchy": 1, "id": 277},  
+        
+                {"question": "Hatt lyst til å pule noen i dette rommet", "totalP": 0, "itchy":0, "id": 278},  
+        
+                {"question": "Hatt sex med en venns ex", "totalP": 0, "itchy": 0, "id": 279},  
+        
+                {"question": "Hatt sex på et offentlig toalett", "totalP": 0, "itchy": 0, "id": 280},  
+        
+                {"question": "Hatt sex i et telt", "totalP": 0, "itchy": 0, "id": 281},  
+        
+                {"question": "Brukt isbiter under sex", "totalP": 0, "itchy": 0, "id": 282},  
+        
+                {"question": "Onanert når jeg hadde besøk", "totalP": 0, "itchy": 0, "id": 283},  
+        
+                {"question": "Onanert imens andre var i samme rom", "totalP": 0, "itchy": 0, "id": 284},  
+        
+                {"question": "Blitt vekket av oral", "totalP": 0, "itchy": 0, "id": 285},  
+        
+                {"question": "Deltatt i djevelens trekant", "totalP": 0, "itchy": 0, "id": 286},  
+        
+                {"question": "Vært redd for å være høylytt under sex", "totalP": 0, "itchy": 0, "id": 287},  
+        
+                {"question": "Fått noe på med noen jeg møtte på dansegulvet", "totalP": 0, "itchy": 0, "id": 288},  
+        
+                {"question": "Pult på gulvet", "totalP": 0, "itchy": 0, "id": 289},  
+        
+                {"question": "Brukt et sjekketriks for å få meg noe", "totalP": 0, "itchy": 0, "id": 290},  
+        
+                {"question": "Blitt wingmanna av noen", "totalP": 0, "itchy": 1, "id": 291},  
+        
+                {"question": "Wingmanna noen", "totalP": 0, "itchy": 1, "id": 292},  
+        
+                {"question": "Hatt sex edru", "totalP": 0, "itchy": 0, "id": 293},  
+        
+                {"question": "Hatt flere pulevenner samtidig", "totalP": 0, "itchy": 0, "id": 294},  
+        
+                {"question": "Vært på strippeklubb", "totalP": 0, "itchy": 0, "id": 295},  
+        
+                {"question": "Lest en venns meldinger i skjul", "totalP": 0, "itchy": 1, "id": 296},  
+        
+                {"question": "Skrevet en melding for en venn", "totalP": 0, "itchy": 1, "id": 297},  
+        
+                {"question": "Stjålet noe verdifullt", "totalP": 0, "itchy": 1, "id": 298},  
+        
+                {"question": "Stjålet småting", "totalP": 0, "itchy": 1, "id": 299},  
+        
+                {"question": "Pult samme person som en venn", "totalP": 0, "itchy": 0, "id": 300},  
+        
+                {"question": "Drukket meg drita alene", "totalP": 0, "itchy": 1, "id": 301},  
+        
+                {"question": "Hatt barndomskjæreste", "totalP": 0, "itchy": 1, "id": 302},  
+        
+                {"question": "Prøvd en annen person sitt undertøy", "totalP": 0, "itchy": 1, "id": 303},  
+        
+                {"question": "Hørt casually på russesanger", "totalP": 0, "itchy": 1, "id": 305},  
+        
+                {"question": "Hatt kjærlighetssorg", "totalP": 0, "itchy": 1, "id": 306},  
+        
+                {"question": "Forsovet meg til noe viktig", "totalP": 0, "itchy": 1, "id": 307},  
+        
+                {"question": "Fått kjeft for noe en venn gjorde", "totalP": 0, "itchy": 1, "id": 308},  
+        
+                {"question": "Strøket i et fag", "totalP": 0, "itchy": 1, "id": 309},  
+        
+                {"question": "Fått en altfor streng straff av foreldrene mine", "totalP": 0, "itchy": 1, "id": 310},  
+        
+                {"question": "Hatt et crush på en venn", "totalP": 0, "itchy": 0, "id": 311},  
+        
+                {"question": "Hatt et crush på en i klassen", "totalP": 0, "itchy": 0, "id": 312},  
+        
+                {"question": "Tråkket på en lego", "totalP": 0, "itchy": 1, "id": 313},  
+        
+                {"question": "Hatt en krangel som gikk til helvete", "totalP": 0, "itchy": 1, "id": 314},  
+        
+                {"question": "Blitt dumpet eller dumpet noen over tekstmelding", "totalP": 0, "itchy": 1, "id": 315},  
+        
+                {"question": "Hatt en viktig melding jeg sendte blitt lest uten å bli svart", "totalP": 0, "itchy": 1, "id": 316},  
+        
+                {"question": "Hatt en venn sende en ufrivillig melding sendt fra mine sosiale medier til en annen", "totalP": 0, "itchy": 1, "id": 317},  
+        
+                {"question": "Klart å få meg på med noen som tidligere rejecta meg", "totalP": 0, "itchy": 0, "id": 318},  
+        
+                {"question": "Gått for langt i et forsøk på å få meg noe", "totalP": 0, "itchy": 0, "id": 319},  
+        
+                {"question": "Unngått noen jeg har tidligere pult eller hooket", "totalP": 0, "itchy": 0, "id": 320},  
+        
+                {"question": "Fått meg på med noen jeg ikke prøvde meg på", "totalP": 0, "itchy": 0, "id": 321},  
+        
+                {"question": "Deltatt på en revy", "totalP": 0, "itchy": 1, "id": 322},  
+        
+                {"question": "Syntes at en av samme kjønn var svært attraktiv", "totalP": 0, "itchy": 0, "id": 323},  
+        
+                {"question": "Gått over en måned uten å masturbere", "totalP": 0, "itchy": 0, "id": 324},  
+        
+                {"question": "Hatt en tørke over et halvt år", "totalP": 0, "itchy": 0, "id": 325},  
+        
+                {"question": "Brukt strap on", "totalP": 0, "itchy": 0, "id": 326},  
+        
+                {"question": "Tettet Dassen", "totalP": 0, "itchy": 1, "id": 327},  
+        
+                {"question": "Gått 5 dager uten å dusje", "totalP": 0, "itchy": 1, "id": 328},  
+        
+                {"question": "Holdt på å rømme hjemme fra", "totalP": 0, "itchy": 1, "id": 329},  
+        
+                {"question": "Knust eller mistet en mobil", "totalP": 0, "itchy": 1, "id": 330},  
+        
+                {"question": "Vært femte hjul for noen", "totalP": 0, "itchy": 1, "id": 331},  
+        
+                {"question": "Sett på en guide til hvordan å ha sex", "totalP": 0, "itchy": 0, "id": 332},  
+        
+                {"question": "Drivet med nakenbryting", "totalP": 0, "itchy": 0, "id": 333}, 
+        
+                {"question": "Løyet om å ha en kjæreste til noen", "totalP": 0, "itchy": 1, "id": 334}, 
+        
+                {"question": "Smakt tiss eller bæsj", "totalP": 0, "itchy": 0, "id": 335}, 
+        
+                {"question": "Fått noen til å squirte eller squirta", "totalP": 0, "itchy": 0, "id": 336}, 
+        
+                {"question": "Angret på hvem jeg mistet dommen til", "totalP": 0, "itchy": 0, "id": 337}, 
+        
+                {"question": "Hatt en finger i rumpa", "totalP": 0, "itchy": 0, "id": 338}, 
+        
+                {"question": "Brukt improviserte sexleketøy under sex f.eks belte", "totalP": 0, "itchy": 0, "id": 339}, 
+        
+                {"question": "Tatt en after sex røyk", "totalP": 0, "itchy": 0, "id": 340}, 
+        
+                {"question": "Hatt voldtektsfantasier", "totalP": 0, "itchy": 0, "id": 341}, 
+        
+                {"question": "Røyket en hel pakke tobakk på under et døgn", "totalP": 0, "itchy": 0, "id": 342}, 
+        
+                {"question": "Vært redd for å bli eller å ha gjort noen gravid", "totalP": 0, "itchy": 0, "id": 343}, 
+        
+                {"question": "Knust noe en venn eide", "totalP": 0, "itchy": 1, "id": 344}, 
+        
+                {"question": "Hatt kyssesyken", "totalP": 0, "itchy": 1, "id": 345}, 
+        
+                {"question": "Hatt en reboundsperiode etter et brudd", "totalP": 0, "itchy": 0, "id": 346}, 
+        
+                {"question": "Sett på porno med noen andre", "totalP": 0, "itchy": 0, "id": 347}, 
+        
+                {"question": "Eksperimentert med mat på kjøkkenet", "totalP": 0, "itchy": 1, "id": 348}, 
+        
+                {"question": "Tatt en løpetur", "totalP": 0, "itchy": 1, "id": 349}, 
+        
+                {"question": "Ledd så hardt at jeg begynte å få puste problemer", "totalP": 0, "itchy": 1, "id": 350},
+
+                {"question": "Blitt venn med en ex", "totalP": 0, "itchy": 1, "id": 351},
+                
+                {"question": "Fått Covid", "totalP": 0, "itchy": 1, "id": 352},
+
+                {"question": "Fyllatringt exen", "totalP": 0, "itchy": 1, "id": 353},
+
+                {"question": "Kjent noen som fikk Covid", "totalP": 0, "itchy": 1, "id": 354},
+
+                {"question": "Vært på fylla hver dag i en hel uke", "totalP": 0, "itchy": 1, "id": 355}
+        ]
+}

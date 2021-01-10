@@ -1,0 +1,259 @@
+{
+    "title": "Alle Som",
+    "underQ": "",
+    "question": [
+        {"question": "Bruker linser må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 0},  
+
+        {"question": "Bruker briller må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 1},  
+
+        {"question": "Bruker merkeklær må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 2},  
+
+        {"question": "Har på seg skjorte må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 3},  
+
+        {"question": "Bruker halskjede må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 4},  
+
+        {"question": "Er ginger må drikke 5 slurker", "totalP": 0, "itchy": 1, "id": 5},  
+
+        {"question": "Har blå øyne må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 6},  
+
+        {"question": "Er singel må drikke 5 slurker", "totalP": 0, "itchy": 1, "id": 7},  
+
+        {"question": "Har kjærste må drikke 5 slurker", "totalP": 0, "itchy": 1, "id": 8},  
+
+        {"question": "Bruker parfyme må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 9},  
+
+        {"question": "Har på seg hvit T-skjorte må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 10},  
+
+        {"question": "Bruker leppestift 2 slurker", "totalP": 0, "itchy": 1, "id": 11},  
+
+        {"question": "Snuser nå må drikke 6 slurker", "totalP": 0, "itchy": 1, "id": 12},  
+
+        {"question": "Bruker voks må drikke 2 slurker", "totalP": 0, "itchy": 1, "id": 13},  
+
+        {"question": "Holder drikken må ta 5 slurker", "totalP": 0, "itchy": 1, "id": 14},  
+
+        {"question": "Drikker sprit må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 15},  
+
+        {"question": "Drikker øl må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 16},  
+
+        {"question": "Drikker cider må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 17},  
+
+        {"question": "Har kondom med seg må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 18},  
+
+        {"question": "Er jomfru kan dele ut 7 slurker", "totalP": 0, "itchy": 0, "id": 19},  
+
+        {"question": "Aldri har hatt kjæreste må ta 4 slurker", "totalP": 0, "itchy": 1, "id": 20},  
+
+        {"question": "Har favoritt musikk sjanger som pop må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 21},  
+
+        {"question": "Har favoritt musikk sjanger som rap må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 22},  
+
+        {"question": "Har vært på do under spillet må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 23},  
+
+        {"question": "Snakker nå imens oppleser snakker må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 24},  
+
+        {"question": "Er avhengig av nikotin må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 25},  
+
+        {"question": "Er på tinder regelmessig må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 26},  
+
+        {"question": "Trener til vanlig må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 27},  
+
+        {"question": "Tror de kunne ha slått oppleser i en fight må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 28},  
+
+        {"question": "Har jobb må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 29},  
+
+        {"question": "Sitter på gulvet må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 30},  
+
+        {"question": "Spiste pizza i dag må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 31},  
+
+        {"question": "Spiste kebab i dag må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 32},  
+
+        {"question": "Spiste taco i dag 3 må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 33},  
+
+        {"question": "Har en tørkeperiode, må ta en slurk for hver måned de har hatt denne tørken", "totalP": 0, "itchy": 0, "id": 34},  
+
+        {"question": "Har matchende klær med noen i dette rommet må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 35},  
+
+        {"question": "Er over 20 må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 36},  
+
+        {"question": "Er under 20 må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 37},  
+
+        {"question": "Drikker vann kan dele ut 8 slurker", "totalP": 0, "itchy": 1, "id": 38},  
+
+        {"question": "Har en privat Snap-Story må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 39},  
+
+        {"question": "Har en liten penis kan dele ut 8 slurker", "totalP": 0, "itchy": 0, "id": 40},  
+
+        {"question": "Har en stor penis må ta 15 slurker", "totalP": 0, "itchy": 0, "id": 41},  
+
+        {"question": "Har kort hår må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 42},  
+
+        {"question": "Har krøllete hår må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 43},  
+
+        {"question": "Bruker hodeplagg må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 44},  
+
+        {"question": "Har på sko må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 45},  
+
+        {"question": "Har kjæledyr kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 46},  
+
+        {"question": "Føler seg edru må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 47},  
+
+        {"question": "Har bursdag denne måneden kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 48},  
+
+        {"question": "Er fulle må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 49},  
+
+        {"question": "Syntes __ er kul tar 2 slurker", "totalP": 1, "itchy": 1, "id": 50}, 
+
+        {"question": "Er en knarker tar 4 slurker", "totalP": 0, "itchy": 1, "id": 51}, 
+
+        {"question": "Liker små pupper tar 4 slurker", "totalP": 0, "itchy": 0, "id": 52}, 
+
+        {"question": "Er høye på livet tar 4 slurker", "totalP": 0, "itchy": 1, "id": 53}, 
+
+        {"question": "Er flinke til å suge kukk tar 5 slurker", "totalP": 0, "itchy": 0, "id": 54}, 
+
+        {"question": "Vil pule __ tar 2 slurker", "totalP": 1, "itchy": 0, "id": 55}, 
+
+        {"question": "Bruker hvit t-skjorte tar 3 slurker", "totalP": 0, "itchy": 1, "id": 56}, 
+
+        {"question": "Bruker svart t-skjorte tar 3 slurker", "totalP": 0, "itchy": 1, "id": 57}, 
+
+        {"question": "Er fit tar 6 slurker", "totalP": 0, "itchy": 1, "id": 58}, 
+
+        {"question": "Lever hos foreldrene sine tar 3 slurker", "totalP": 0, "itchy": 1, "id": 59}, 
+
+        {"question": "Går kommando nå tar 4 slurker", "totalP": 0, "itchy": 0, "id": 60}, 
+
+        {"question": "Er student tar 3 slurker", "totalP": 0, "itchy": 0, "id": 60}, 
+
+        {"question": "Er en sexgud tar 8 slurker", "totalP": 0, "itchy": 0, "id": 61}, 
+
+        {"question": "Ikke har spillt Dram! før tar 5 slurker", "totalP": 0, "itchy": 1, "id": 62}, 
+
+        {"question": "Er en Kasanova eller Don Juan tar 8 slurker", "totalP": 0, "itchy": 0, "id": 62}, 
+
+        {"question": "Er nikotinavhengige tar 4 slurker", "totalP": 0, "itchy": 0, "id": 63}, 
+
+        {"question": "Er jenter kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 64}, 
+
+        {"question": "Er gutter kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 65}, 
+
+        {"question": "Er alltid den tidligste på festen kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 66}, 
+
+        {"question": "Har lyst å få seg noe i kveld tar 4 slurker", "totalP": 0, "itchy": 0, "id": 67}, 
+
+        {"question": "Er en kåt jævel tar 4 slurker", "totalP": 0, "itchy": 0, "id": 68}, 
+
+        {"question": "Prøver sitt beste på å få andre til å føle seg likt kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 69}, 
+
+        {"question": "Har lappen tar 4 slurker", "totalP": 0, "itchy": 0, "id": 70}, 
+
+        {"question": "Er konservativ tar 4 slurker", "totalP": 0, "itchy": 1, "id": 71}, 
+
+        {"question": "Er en sosialist tar 4 slurker", "totalP": 0, "itchy": 1, "id": 72}, 
+
+        {"question": "Elsker Norge tar 3 slurker", "totalP": 0, "itchy": 1, "id": 73}, 
+
+        {"question": "Elsker USA tar 3 slurker", "totalP": 0, "itchy": 1, "id": 74}, 
+
+        {"question": "Er en synder tar 5 slurker", "totalP": 0, "itchy": 0, "id": 75}, 
+
+        {"question": "Bruker smykker tar 4 slurker", "totalP": 0, "itchy": 1, "id": 76}, 
+
+        {"question": "Har en ring på seg tar 4 slurker", "totalP": 0, "itchy": 1, "id": 78}, 
+
+        {"question": "Har en ødelagt døgnrytme tar 4 slurker", "totalP": 0, "itchy": 1, "id": 79}, 
+
+        {"question": "Eier en bolig tar 4 slurker", "totalP": 0, "itchy": 1, "id": 80}, 
+
+        {"question": "Bor hjemme hos familien sin tar 4 slurker", "totalP": 0, "itchy": 1, "id": 81}, 
+
+        {"question": "Er en person som er glad i klemmer tar 4 slurker", "totalP": 0, "itchy": 1, "id": 82}, 
+
+        {"question": "Er religiøse tar 3 slurker", "totalP": 0, "itchy": 1, "id": 83}, 
+
+        {"question": "Har under 1000 kr på kontoen tar 3 slurker", "totalP": 0, "itchy": 1, "id": 84}, 
+
+        {"question": "Bruker hettegenser tar 3 slurker", "totalP": 0, "itchy": 1, "id": 85}, 
+
+        {"question": "Har farget håret tar 3 slurker", "totalP": 0, "itchy": 1, "id": 86}, 
+
+        {"question": "Sitter i en sofa tar 3 slurker", "totalP": 0, "itchy": 1, "id": 87}, 
+
+        {"question": "Snakker med noen andre når dette blir lest opp tar 5 slurker", "totalP": 0, "itchy": 1, "id": 88}, 
+
+        {"question": "Har noe på hodet kan dele ut 4 slurker", "totalP": 0, "itchy": 1, "id": 89}, 
+
+        {"question": "Har spist snacks i kveld tar 3 slurker", "totalP": 0, "itchy": 1, "id": 90}, 
+
+        {"question": "Liker den best i nr 2 tar 4 slurker", "totalP": 0, "itchy": 0, "id": 91}, 
+
+        {"question": "Er en gamer tar 5 slurker", "totalP": 0, "itchy": 1, "id": 92}, 
+
+        {"question": "Masturberte i dag tar 6 slurker", "totalP": 0, "itchy": 0, "id": 93}, 
+
+        {"question": "Har hatt sex idag tar 5 slurker", "totalP": 0, "itchy": 0, "id": 94}, 
+
+        {"question": "Har lyst til å dele ut slurker kan dele ut 5 slurker", "totalP": 0, "itchy": 0, "id": 95}, 
+
+        {"question": "Vil pule noen i dette rommet tar 5 slurker", "totalP": 0, "itchy": 0, "id": 96}, 
+
+        {"question": "Holder på med noen nå tar 3 slurker", "totalP": 0, "itchy": 0, "id": 97}, 
+
+        {"question": "Kunne overtalt __ til å bli med på å pule tar 5 slurker", "totalP": 1, "itchy": 0, "id": 98}, 
+
+        {"question": "Var på fylla igår tar 3 slurker", "totalP": 0, "itchy": 0, "id": 99}, 
+
+        {"question": "Er en sadist tar 5 slurker", "totalP": 0, "itchy": 0, "id": 100}, 
+
+        {"question": "Bruker ørering tar 3 slurker", "totalP": 0, "itchy": 1, "id": 101}, 
+
+        {"question": "Ikke skal sove hjemme i kveld tar 4 slurker", "totalP": 0, "itchy": 0, "id": 102}, 
+
+        {"question": "Har hatt sex med noen i dette rommet tar 3 slurker", "totalP": 0, "itchy": 0, "id": 103}, 
+
+        {"question": "Ikke er heterofil tar 3 slurker", "totalP": 0, "itchy": 0, "id": 104}, 
+
+        {"question": "Har lyst til å ha sex med noen i dette rommet tar 3 slurker", "totalP": 0, "itchy": 0, "id": 105}, 
+
+        {"question": "Er en giver i senga tar 6 slurker", "totalP": 0, "itchy": 0, "id": 106}, 
+
+        {"question": "Har daddy-issues tar 3 slurker", "totalP": 0, "itchy": 0, "id": 107}, 
+
+        {"question": "Er høye tar 3 slurker", "totalP": 0, "itchy": 0, "id": 108}, 
+
+        {"question": "Kunne ha vært i en gangbang tar 5 slurker", "totalP": 0, "itchy": 0, "id": 109}, 
+
+        {"question": "Er pornoavhengig tar 4 slurker", "totalP": 0, "itchy": 0, "id": 110}, 
+
+        {"question": "Har et crush tar 4 slurker", "totalP": 0, "itchy": 0, "id": 111}, 
+
+        {"question": "Er keen på noen i dette rommet tar 4 slurker", "totalP": 0, "itchy": 0, "id": 112}, 
+
+        {"question": "Bruker alt for lang tid i dusjen tar 3 slurker", "totalP": 0, "itchy": 1, "id": 113}, 
+
+        {"question": "Har en favoritt pornostjerne tar 4 slurker", "totalP": 0, "itchy": 0, "id": 114},
+
+        {"question": "Er syke nå tar 3 slurker", "totalP": 0, "itchy": 0, "id": 115},
+
+        {"question": "Drikker cocktail tar 2 slurker", "totalP": 0, "itchy": 0, "id": 116}, 
+
+        {"question": "Kan pule alt på to ben tar 3 slurker", "totalP": 0, "itchy": 0, "id": 117}, 
+
+        {"question": "Er i milla tar 6 slurker", "totalP": 0, "itchy": 0, "id": 118}, 
+
+        {"question": "Har en knust mobil tar 3 slurker", "totalP": 0, "itchy": 1, "id": 119}, 
+
+        {"question": "Har en sixpack kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 120}, 
+
+        {"question": "Drikker vin tar 3 slurker", "totalP": 0, "itchy": 0, "id": 121}, 
+
+        {"question": "Hoster vorset kan dele ut 10 slurker", "totalP": 0, "itchy": 1, "id": 122}, 
+
+        {"question": "Er her tar 3 slurker", "totalP": 0, "itchy": 1, "id": 123},     
+
+        {"question": "Har blitt dumpa innen de to siste månedene kan dele ut 10 slurker", "totalP": 0, "itchy": 0, "id": 124},
+
+        {"question": "Ikke er over en ex kan dele ut 5 slurker", "totalP": 0, "itchy": 0, "id": 125}
+    ]
+}

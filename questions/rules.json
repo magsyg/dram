@@ -1,0 +1,160 @@
+{
+    "rules": {
+        "title": "Regel",
+        "underQ": "Brudd på regelen straffes med 2 slurker",
+        "question": [
+            {"question": "Alle må bytte øverste lag med klær på overkroppen med personen til venstre", "totalP": 0, "itchy": 1, "id": 0}, 
+            {"question": "Pronomen er nå forbudt", "totalP": 0, "itchy": 1, "id": 1}, 
+            {"question": "HaHa alle må le før drikker HaHa", "totalP": 0, "itchy": 1, "id": 2}, 
+            {"question": "__ må drikke dobbelt antall slurker, leveren din kommer til å takle dette dårlig", "totalP": 1, "itchy": 1, "id": 3}, 
+            {"question": "__ lag en ny regel", "totalP": 1, "itchy": 1, "id": 4}, 
+            {"question": "__ må snake bergensk", "totalP": 1, "itchy": 1, "id": 5}, 
+            {"question": "Det er ikke lov å røre gulvet", "totalP": 0, "itchy": 1, "id": 6}, 
+            {"question": "__ må snakke som Yoda", "totalP": 1, "itchy": 1, "id": 7}, 
+            {"question": "__ og __ må oppføre seg som et gammelt ektepar", "totalP": 2, "itchy": 1, "id": 8}, 
+            {"question": "Det er ikke lov til å spørre lenger, dette gjelder ikke oppleser", "totalP": 0, "itchy": 1, "id": 9}, 
+            {"question": "Alle må si JA istedenfor NEI, ikke utnytt dette, det er imot loven", "totalP": 0, "itchy": 1, "id": 10}, 
+            {"question": "Det er ikke lov til å sjekke telefonen sin lenger", "totalP": 0, "itchy": 1, "id": 11}, 
+            {"question": "Det er ikke lov til å ta på seg selv", "totalP": 0, "itchy": 1, "id": 12}, 
+            {"question": "Det er ikke lov til å ta på andre", "totalP": 0, "itchy": 1, "id": 13}, 
+            {"question": "Alle må manspreade", "totalP": 0, "itchy": 1, "id": 14}, 
+            {"question": "__ bannlys 3 ord", "totalP": 1, "itchy": 1, "id": 15}, 
+            {"question": "__ må snakke som en baby", "totalP": 1, "itchy": 1, "id": 16}, 
+            {"question": "__ er nå slaven til __", "totalP": 2, "itchy": 1, "id": 17}, 
+            {"question": "Det er ikke lov til å bruke sin dominante hånd til noe det er fyfy", "totalP": 0, "itchy": 1, "id": 18}, 
+            {"question": "Det er ikke lov å ha øyekontakt med noen, dette kommer til å bli kleint", "totalP": 0, "itchy": 1, "id": 19}, 
+            {"question": "__ må oppføre seg som en soss, hvor lite polotøy har dere andre a?", "totalP": 1, "itchy": 1, "id": 20}, 
+            {"question": "__ må snakke kebabnorsk", "totalP": 1, "itchy": 1, "id": 21}, 
+            {"question": "__ må lage orgasme lyder etter hver slurk, ah ah ah ah ah", "totalP": 1, "itchy": 1, "id": 22}, 
+            {"question": "__ har nå fjortisfylla", "totalP": 1, "itchy": 1, "id": 23}, 
+            {"question": "Alle må ignorere __", "totalP": 1, "itchy": 1, "id": 24}, 
+            {"question": "__ må bare snakke negativt, for en bitch", "totalP": 1, "itchy": 1, "id": 25}, 
+            {"question": "Alle må være kongelig høflige med hverandre", "totalP": 0, "itchy": 1, "id": 26}, 
+            {"question": "__ må snakke i rim", "totalP": 1, "itchy": 1, "id": 27}, 
+            {"question": "__ har nå en italiensk aksent", "totalP": 1, "itchy": 1, "id": 28}, 
+            {"question": "Det er nå banneforbud", "totalP": 0, "itchy": 1, "id": 29}, 
+            {"question": "__ er nå påvirket av narkotika", "totalP": 1, "itchy": 1, "id": 30}, 
+            {"question": "Det er ikke lenger lov å bruke navn", "totalP": 0, "itchy": 1, "id": 31}, 
+            {"question": "Alle må hate __, fuck den bitchen", "totalP": 1, "itchy": 1, "id": 32}, 
+            {"question": "Alle må saluttere hver gang de sier noe", "totalP": 0, "itchy": 1, "id": 33}, 
+            {"question": "__ må snakke med mørkeste mulig stemme", "totalP": 1, "itchy": 1, "id": 34}, 
+            {"question": "Dere må faen meg banne i hver setning", "totalP": 0, "itchy": 1, "id": 35}, 
+            {"question": "__ må snakke som Mikke Mus", "totalP": 1, "itchy": 1, "id": 36}, 
+            {"question": "Det er ikke lov til å snakke om seg selv", "totalP": 0, "itchy": 1, "id": 37}, 
+            {"question": "Hver gang noen snakker til __ må du oppføre deg som du har en intens orgasme", "totalP": 1, "itchy": 1, "id": 38}, 
+            {"question": "__ må synge alt de sier", "totalP": 1, "itchy": 1, "id": 39}, 
+            {"question": "__ må snakke engelsk med en tykk norsk aksent", "totalP": 1, "itchy": 1, "id": 40}, 
+            {"question": "Hver gang __ drikker, må alle av det motsatte kjønn drikke", "totalP": 1, "itchy": 1, "id": 41}, 
+            {"question": "Hver gang __ drikker, må alle av samme kjønn drikke", "totalP": 1, "itchy": 1, "id": 42}, 
+            {"question": "Drikk hver gang personen til høyre for deg må drikke", "totalP": 0, "itchy": 1, "id": 43}, 
+            {"question": "Hver gang i leken noen blir straffet med å drikke, kan dere heller dele ut slurkene", "totalP": 0, "itchy": 1, "id": 44}, 
+            {"question": "__ er blitt sinnsyk og må late som ingen andre er i rommet", "totalP": 1, "itchy": 1, "id": 45}, 
+            {"question": "Alle må gjøre en runke bevegelse hver gang de drikker", "totalP": 0, "itchy": 1, "id": 46}, 
+            {"question": "__ falt over gammel kanten og er nå blitt eldgammel", "totalP": 1, "itchy": 1, "id": 47}, 
+            {"question": "Første man som sier Amen, etter at __ sier noe kan dele ut 1 slurk", "totalP": 1, "itchy": 1, "id": 48} 
+        ]
+        },
+    "ruleBreaks": {
+        "title": "Regelbrudd",
+        "underQ": "",
+        "question": [
+            {"question": "Dere kan bytte tilbake overkropps klesplagget", "totalP": 0, "itchy": 1, "id": 0},  
+
+            {"question": "Dere kan bruke pronomen igjen", "totalP": 0, "itchy": 1, "id": 1},  
+
+            {"question": "Dere trenger ikke å le lenger før dere drikker haha", "totalP": 0, "itchy": 1, "id": 2},  
+
+            {"question": "__ trenger ikke å drikke dobbelt antall slurker", "totalP": 1, "itchy": 1, "id": 3},  
+
+            {"question": "Regelen til __ gjelder ikke lenger", "totalP": 1, "itchy": 1, "id": 4},  
+
+            {"question": "__ kan stoppe å snakk bergensk", "totalP": 1, "itchy": 1, "id": 5},  
+
+            {"question": "Dere kan røre gulvet igjen", "totalP": 0, "itchy": 1, "id": 6},  
+
+            {"question": "__ kan stoppe å snakk som Yoda", "totalP": 1, "itchy": 1, "id": 7},  
+
+            {"question": "__ og __ må skilles og begge tar 1 slurk", "totalP": 2, "itchy": 1, "id": 8},  
+
+            {"question": "Dere kan stille spørsmål igjen", "totalP": 0, "itchy": 1, "id": 9},  
+
+            {"question": "Dere trenger ikke bare å si ja lenger", "totalP": 0, "itchy": 1, "id": 10},  
+
+            {"question": "Dere kan sjekke telefonene igjen", "totalP": 0, "itchy": 1, "id": 11},  
+
+            {"question": "Dere kan røre dere selv igjen", "totalP": 0, "itchy": 1, "id": 12},  
+
+            {"question": "Dere kan ta på andre igjen", "totalP": 0, "itchy": 1, "id": 13},  
+
+            {"question": "Dere trenger ikke å manspreade lenger", "totalP": 0, "itchy": 1, "id": 14},  
+
+            {"question": "Ordene til __ er lovlige igjen", "totalP": 1, "itchy": 1, "id": 15},  
+
+            {"question": "__ kan stoppe å snakk som en baby", "totalP": 1, "itchy": 1, "id": 16},  
+
+            {"question": "__ er ikke lenger slaven til __, og kan bestemme en straff til sin tidligere mester", "totalP": 2, "itchy": 1, "id": 17},  
+
+            {"question": "Dere kan bruke deres dominante hånd igjen", "totalP": 0, "itchy": 0, "id": 18},  
+
+            {"question": "Dere kan ha øyekontakt igjen", "totalP": 0, "itchy": 1, "id": 19},  
+
+            {"question": "__s foreldre gikk bankrupt så sossedommen forsvant", "totalP": 1, "itchy": 1, "id": 20},  
+
+            {"question": "__ ble assimilert i det norske samfunn, og snakker flytende norsk", "totalP": 1, "itchy": 1, "id": 21},  
+
+            {"question": "__ stopp med orgasmene lydene æsj det er ekkelt", "totalP": 1, "itchy": 1, "id": 22},  
+
+            {"question": "__ vokste opp oppfører seg ikke lenger som en fjortis i fylla", "totalP": 1, "itchy": 1, "id": 23},  
+
+            {"question": "__ eksisterer igjen", "totalP": 1, "itchy": 1, "id": 24},  
+
+            {"question": "__ bli positiv igjen", "totalP": 1, "itchy": 1, "id": 25},  
+
+            {"question": "Stopp å vær så falske, dere trenger ikke å være kongelig høflige lenger", "totalP": 0, "itchy": 1, "id": 26},  
+
+            {"question": "__ stopp å rime", "totalP": 1, "itchy": 1, "id": 27},  
+
+            {"question": "__ stopp med den italienske aksenten", "totalP": 1, "itchy": 1, "id": 28},  
+
+            {"question": "Det er lov å banne igjen", "totalP": 0, "itchy": 1, "id": 29},  
+
+            {"question": "__ ble ferska av politi, og kan ikke være høy lenger", "totalP": 1, "itchy": 1, "id": 30},  
+
+            {"question": "Det er lov å bruke navn igjen", "totalP": 0, "itchy": 1, "id": 31},  
+
+            {"question": "Alt du trenger er kjærlighet så ingen hater __ lenger", "totalP": 1, "itchy": 1, "id": 32},  
+
+            {"question": "Dere kan stoppe å saluttere", "totalP": 0, "itchy": 1, "id": 33},  
+
+            {"question": "__ kan stoppe å bruke en mørk stemme", "totalP": 1, "itchy": 1, "id": 34},  
+
+            {"question": "Dere trenger ikke å banne hele tida, gud hører deg", "totalP": 0, "itchy": 1, "id": 35},  
+
+            {"question": "__ er ikke lenger Mikke Mus", "totalP": 1, "itchy": 1, "id": 36},  
+
+            {"question": "Dere kan snakke om dere selv", "totalP": 0, "itchy": 1, "id": 37},  
+
+            {"question": "__ er ikke så påtennende, så stopp med orgasmen", "totalP": 1, "itchy": 1, "id": 38},  
+
+            {"question": "__ stopp å syng du suger", "totalP": 1, "itchy": 1, "id": 39},  
+
+            {"question": "__ trenger ikke å snakke gebroken engelsk", "totalP": 1, "itchy": 1, "id": 40},  
+
+            {"question": "De av det motsatte kjønnet til __ straffes ikke lenger med drikke", "totalP": 1, "itchy": 1, "id": 41},  
+
+            {"question": "De av det samme kjønnet til __ straffes ikke lenger med drikke", "totalP": 1, "itchy": 1, "id": 42},  
+
+            {"question": "Dere trenger ikke å drikke når personen til høyre for deg drikker", "totalP": 0, "itchy": 1, "id": 43},  
+
+            {"question": "Dere kan ikke bare dele ut slurker lenger, så dere må drikke når dere er bedt om det", "totalP": 0, "itchy": 1, "id": 44},  
+
+            {"question": "__ kommer ut av galskapen sin og kan delta i gruppa igjen", "totalP": 1, "itchy": 1, "id": 45},  
+
+            {"question": "Dere kan stoppe å runke lufta, jeg tror den kom", "totalP": 0, "itchy": 1, "id": 46},  
+
+            {"question": "__ fant ungdomskilden og er nå ung igjen", "totalP": 1, "itchy": 1, "id": 47},  
+
+            {"question": "Amen forbud, dere kan ikke lenger dele ut slurker hver gang __ sier noe", "totalP": 1, "itchy": 1, "id": 48} 
+        ]
+    }
+}

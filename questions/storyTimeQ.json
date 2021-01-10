@@ -1,0 +1,339 @@
+{
+    "title": "Storytime",
+    "underQ": "Hver person skal fortelle hver sin ting, og alle tar 1 skål til hver av fortellingene",
+    "question": [
+        {"question": "__ og __: hva er den verste straffen du noensinne har fått", "totalP": 2, "itchy": 1, "id": 0},  
+
+        {"question": "__ og __: hvem synes du er den verste artisten i verden?", "totalP": 2, "itchy": 1, "id": 1},  
+
+        {"question": "__ og __: hva er det en ting du liker, som få andre liker?", "totalP": 2, "itchy": 1, "id": 2},  
+
+        {"question": "__ og __: hva er dine topp 3 russesanger", "totalP": 2, "itchy": 1, "id": 3},  
+
+        {"question": "__ og __: fortell oss om ditt videregående-crush", "totalP": 2, "itchy": 0, "id": 4},  
+
+        {"question": "__ og __: fortell oss en av dine skitneste fortellinger", "totalP": 2, "itchy": 0, "id": 5},  
+
+        {"question": "__ og __: fortell oss en fyllafortelling", "totalP": 2, "itchy": 1, "id": 6},  
+
+        {"question": "__ og __: hva hadde du gjort hvis du var den siste personen i verden?", "totalP": 2, "itchy": 1, "id": 7},  
+
+        {"question": "__ og __: fortell oss om første gang du hooka med noen", "totalP": 2, "itchy": 0, "id": 8},  
+
+        {"question": "__ og __: fortell oss om noe kjempeirriterende som har skjedd deg", "totalP": 2, "itchy": 1, "id": 9},  
+
+        {"question": "__ og __: fortell oss om en gang du har vært kjempestolt av en venn", "totalP": 2, "itchy": 1, "id": 10},  
+
+        {"question": "__ og __: har dere noen gang gjort noe ulovlig?", "totalP": 2, "itchy": 1, "id": 11},  
+
+        {"question": "__ og __: hva er den rareste pornoen du har noensinne sett?", "totalP": 2, "itchy": 0, "id": 12},  
+
+        {"question": "__ og __: hva er det rareste du har gjort for å komme ned i buksa på noen", "totalP": 2, "itchy": 0, "id": 13},  
+
+        {"question": "__ og __: hva er det mest skuffende du har gjort", "totalP": 2, "itchy": 1, "id": 14},  
+
+        {"question": "__ og __: hva er din favorittfilm, -bok og -band?", "totalP": 2, "itchy": 1, "id": 15},  
+
+        {"question": "__ og __: beskriv hver av deres sexliv", "totalP": 2, "itchy": 0, "id": 16},  
+
+        {"question": "__ og __: fortell en funfact, som du tror ikke mange andre her vet", "totalP": 2, "itchy": 1, "id": 17},  
+
+        {"question": "__ og __: hvem er den mest sexy personen du noensinne har sett i virkeligheten", "totalP": 2, "itchy": 0, "id": 18},  
+
+        {"question": "__ og __: hvis du skulle ha hatt en superkraft, hva ville den ha vært", "totalP": 2, "itchy": 1, "id": 19},  
+
+        {"question": "__ og __: hva har du trodd på i en lang tid, men senere fant ut var tull", "totalP": 2, "itchy": 1, "id": 21},  
+
+        {"question": "__ og __: si din favoritt ting å gjøre under sex", "totalP": 2, "itchy": 0, "id": 22},  
+
+        {"question": "__ og __: hva er din favoritt sexposisjon", "totalP": 2, "itchy": 0, "id": 23},  
+
+        {"question": "__ og __: hvor ofte tenker du på sex?", "totalP": 2, "itchy": 0, "id": 24},  
+
+        {"question": "__ og __: hva er din hemmelige fantasi", "totalP": 2, "itchy": 0, "id": 25},  
+
+        {"question": "__ og __: hvis du kunne ha vært CEO av en bedrift, hvilken ville det ha vært", "totalP": 2, "itchy": 1, "id": 26},  
+
+        {"question": "__ og __: hvem er din favorittperson gjennom historien", "totalP": 2, "itchy": 1, "id": 27},  
+
+        {"question": "__ og __: hva er det rareste du har spist eller drukket", "totalP": 2, "itchy": 1, "id": 28},  
+
+        {"question": "__ og __: gi oss et hjelpsomt tips for å komme oss gjennom livet", "totalP": 2, "itchy": 1, "id": 29},  
+
+        {"question": "__ og __: fortell oss om en ting som gjør deg nostalgisk", "totalP": 2, "itchy": 1, "id": 30},  
+
+        {"question": "__ og __: hva er din favoritt ting i verden?", "totalP": 2, "itchy": 1, "id": 31},  
+
+        {"question": "__ og __: hva gjør deg sint?", "totalP": 2, "itchy": 1, "id": 32},  
+
+        {"question": "__ og __: hva gjør deg flau?", "totalP": 2, "itchy": 0, "id": 33},  
+
+        {"question": "__ og __: hva finner du søtt", "totalP": 2, "itchy": 1, "id": 34},  
+
+        {"question": "__ og __: hva gjør deg redd og kan få deg til å drite på deg selv", "totalP": 2, "itchy": 1, "id": 35},  
+
+        {"question": "__ og __: hvordan har dagen din vært", "totalP": 2, "itchy": 1, "id": 36},  
+
+        {"question": "__ og __: anbefal oss noe", "totalP": 2, "itchy": 1, "id": 37},  
+
+        {"question": "__ og __: hva er din strange addiction?", "totalP": 2, "itchy": 1, "id": 38},  
+
+        {"question": "__ og __: hvordan er din drømmepartner?", "totalP": 2, "itchy": 1, "id": 39},  
+
+        {"question": "__ og __: hvilken person i verden har du mest lyst til å pule", "totalP": 2, "itchy": 0, "id": 40},  
+
+        {"question": "__ og __: hvis du skulle ha hatt sex med en person som ikke var din seksuelle preferanse, hvem ville det ha vært", "totalP": 2, "itchy": 0, "id": 41},  
+
+        {"question": "__ og __: hva ønsker du deg til din neste bursdag?", "totalP": 2, "itchy": 1, "id": 42},  
+
+        {"question": "__ og __: hvis du skulle ha hatt 1 ønske oppfylt, hva ville det ha vært", "totalP": 2, "itchy": 1, "id": 43},  
+
+        {"question": "__ og __: hva er den rareste drømmen du har hatt", "totalP": 2, "itchy": 1, "id": 44},  
+
+        {"question": "__ og __: hvis du skulle ha hatt en tatovering, hvor ville den ha vært og hva ville det ha vært av", "totalP": 2, "itchy": 0, "id": 45},  
+
+        {"question": "__ og __: hvor ser du deg selv om 10 år", "totalP": 2, "itchy": 1, "id": 46},  
+
+        {"question": "__ og __: hvis du skulle ha levd i en annen tidsperiode, når ville det ha vært", "totalP": 2, "itchy": 1, "id": 47},  
+
+        {"question": "__ og __: hvem var ditt første crush", "totalP": 2, "itchy": 0, "id": 48},  
+
+        {"question": "__ og __: hva er din perfekte 3 retters middag", "totalP": 2, "itchy": 1, "id": 49},  
+
+        {"question": "__ og __: hva er det heldigste som noen sinne har skjedd deg", "totalP": 2, "itchy": 1, "id": 50},  
+
+        {"question": "__ og __: hva er det du mest stolt av å ha gjort", "totalP": 2, "itchy": 1, "id": 51},  
+
+        {"question": "__ og __: hva er det beste valget du noensinne har gjort", "totalP": 2, "itchy": 1, "id": 52},  
+
+        {"question": "__ og __: hva er det verste valget du noensinne har gjort", "totalP": 2, "itchy": 1, "id": 53},  
+
+        {"question": "__ og __: hva er det tøffeste du noensinne har gjort", "totalP": 2, "itchy": 1, "id": 54},  
+
+        {"question": "__ og __: hvis du skulle ha vært et dyr, hvilket ville det ha vært", "totalP": 2, "itchy": 1, "id": 55},  
+
+        {"question": "__ og __: hva ser du mest frem til for øyeblikket", "totalP": 2, "itchy": 1, "id": 56},  
+
+        {"question": "__ og __: hva er du svært selvbevisst om", "totalP": 2, "itchy": 0, "id": 57},  
+
+        {"question": "__ og __: hva er det du angrer mest på", "totalP": 2, "itchy": 1, "id": 58},  
+
+        {"question": "__ og __: hva er det skumleste du noensinne har opplevd", "totalP": 2, "itchy": 1, "id": 59},  
+
+        {"question": "__ og __: er du religiøs?", "totalP": 2, "itchy": 1, "id": 60},  
+
+        {"question": "__ og __: har du mistet jomfrudommen og hvordan skjedde det", "totalP": 2, "itchy": 0, "id": 61},  
+
+        {"question": "__ og __: har du noensinne lagt ut noen videoer på nettet", "totalP": 2, "itchy": 1, "id": 62},  
+
+        {"question": "__ og __: hvor mange har du pult", "totalP": 2, "itchy": 0, "id": 63},  
+
+        {"question": "__ og __: hva er den rareste seksuelle opplevelsen du har hørt om", "totalP": 2, "itchy": 0, "id": 64},  
+
+        {"question": "__ og __: hva er din perfect crime", "totalP": 2, "itchy": 1, "id": 65},  
+
+        {"question": "__ og __: hva er det ekleste du noensinne har opplevd", "totalP": 2, "itchy": 1, "id": 66},  
+
+        {"question": "__ og __: hva tenker du på nå", "totalP": 2, "itchy": 1, "id": 67},  
+
+        {"question": "__ og __: hvilken person i livet ditt elsker du mest nå?", "totalP": 2, "itchy": 0, "id": 68},  
+
+        {"question": "__ og __: hva bruker du mest tid på i livet ditt nå", "totalP": 2, "itchy": 1, "id": 69},  
+
+        {"question": "__ og __: hva er hobbyen din", "totalP": 2, "itchy": 1, "id": 70},  
+
+        {"question": "__ og __: hva er ditt tidligste minne", "totalP": 2, "itchy": 1, "id": 71},  
+
+        {"question": "__ og __: fortell oss om din rareste barndoms fantasi", "totalP": 2, "itchy": 1, "id": 72},  
+
+        {"question": "__ og __: har du noensinne opplevd overnaturlig", "totalP": 2, "itchy": 1, "id": 73},  
+
+        {"question": "__ og __: hva har vært den beste dagen av livet ditt", "totalP": 2, "itchy": 1, "id": 74},  
+
+        {"question": "__ og __: hvordan var den absolutt verste festen du har vært på", "totalP": 2, "itchy": 1, "id": 75},  
+
+        {"question": "__ og __: gi oss et sjekketriks", "totalP": 2, "itchy": 1, "id": 76},  
+
+        {"question": "__ hvordan kjenner du __", "totalP": 2, "itchy": 1, "id": 77},  
+
+        {"question": "__ og __: fortell en funfact om noen i dette rommet", "totalP": 2, "itchy": 0, "id": 78},  
+
+        {"question": "__ og __: hva savner du mest i livet ditt?", "totalP": 2, "itchy": 1, "id": 79},  
+
+        {"question": "__ og __: har du noensinne vært høy, hvis ja, fortell om det", "totalP": 2, "itchy": 0, "id": 80},  
+
+        {"question": "__ og __: kan du vise oss noen gode memes?", "totalP": 2, "itchy": 1, "id": 81},  
+
+        {"question": "__ og __: hva er dine politiske meninger?", "totalP": 2, "itchy": 0, "id": 82},  
+
+        {"question": "__ og __: hvem er din favoritt pornostjerne?", "totalP": 2, "itchy": 0, "id": 83},  
+
+        {"question": "__ og __: har du vært i noe forhold før, hvordan gikk det?", "totalP": 2, "itchy": 1, "id": 84},  
+
+        {"question": "__ og __: tror du på noen konspirasjonsteorier?", "totalP": 2, "itchy": 1, "id": 85},  
+
+        {"question": "__ og __: hva er din største styrke", "totalP": 2, "itchy": 0, "id": 86},  
+
+        {"question": "__ og __: hva er din største svakhet", "totalP": 2, "itchy": 0, "id": 87},  
+
+        {"question": "__ og __: hva er det viktigste du har lært i løpet av livet?", "totalP": 2, "itchy": 1, "id": 88},  
+
+        {"question": "__ og __: hva er det dummeste du noensinne har gjort?", "totalP": 2, "itchy": 1, "id": 89},  
+
+        {"question": "__ og __: hva er de verste skadene du noensinne har fått?", "totalP": 2, "itchy": 1, "id": 90},  
+
+        {"question": "__ og __: hvordan var det for deg å vokse opp?", "totalP": 2, "itchy": 1, "id": 91},  
+
+        {"question": "__ og __: hvordan var du som barn?", "totalP": 2, "itchy": 1, "id": 92},  
+
+        {"question": "__ og __: hva er noen av kallenavnene du har fått gjennom tidene?", "totalP": 2, "itchy": 1, "id": 93},  
+
+        {"question": "__ og __: hva er det kuleste du har gjort på skolen?", "totalP": 2, "itchy": 1, "id": 94},  
+
+        {"question": "__ og __: har du hatt en jobb før?", "totalP": 2, "itchy": 1, "id": 95},  
+
+        {"question": "__ og __: hva ville du gjort hvis du hadde 10 millioner kroner?", "totalP": 2, "itchy": 1, "id": 96},  
+
+        {"question": "__ og __: hva slags musikk hører du på?", "totalP": 2, "itchy": 1, "id": 97},  
+
+        {"question": "__ og __: hva er det første du tenker over når du møter nye folk?", "totalP": 2, "itchy": 1, "id": 98},  
+
+        {"question": "__ og __: hva får deg til å føle deg gammel?", "totalP": 2, "itchy": 1, "id": 99},  
+
+        {"question": "__ og __: hvis du skulle finne svaret på noe ingen visste, hva ville det vært?", "totalP": 2, "itchy": 1, "id": 100},  
+
+        {"question": "__ og __: hva er det rareste du noensinne har sett?", "totalP": 2, "itchy": 1, "id": 101},  
+
+        {"question": "__ og __: hvem hater du mest i verden", "totalP": 2, "itchy": 1, "id": 102},  
+
+        {"question": "__ og __: hvilket våpen ville du brukt i en zombie-apokalypse?", "totalP": 2, "itchy": 1, "id": 103},  
+
+        {"question": "__ og __: hvor går grensen din for hvem du puler?", "totalP": 2, "itchy": 0, "id": 104},  
+
+        {"question": "__ og __: fortell oss om noe morsomt som skjedde på barneskolen din", "totalP": 2, "itchy": 1, "id": 105},  
+
+        {"question": "__ og __: kjenner du noen som er berømt?", "totalP": 2, "itchy": 1, "id": 106},  
+
+        {"question": "__ og __: fortell oss om noe morsomt som skjedde på ungdomskolen din", "totalP": 2, "itchy": 1, "id": 107},  
+
+        {"question": "__ og __: fortell oss om noe morsomt som skjedde på videregående", "totalP": 2, "itchy": 1, "id": 108},  
+
+        {"question": "__ og __: hvis du kunne ha vært hvem som helst i verden, hvem ville du vært?", "totalP": 2, "itchy": 1, "id": 109},  
+
+        {"question": "__ og __: hva er det verste fornavnet man kan ha?", "totalP": 2, "itchy": 1, "id": 110},  
+
+        {"question": "__ og __: hvis du kunne ha sagt noe til deg selv for 10 år siden, hva ville det ha vært?", "totalP": 2, "itchy": 1, "id": 111},  
+
+        {"question": "__ og __: hvis du kunne ha slått noen i ansiktet, uten konsekvenser, hvem ville det ha vært?", "totalP": 2, "itchy": 1, "id": 112},  
+
+        {"question": "__ og __: hva er den siste sangen du hørte på?", "totalP": 2, "itchy": 1, "id": 113},  
+
+        {"question": "__ og __: hva tror du kommer til å utslette menneskeheten?", "totalP": 2, "itchy": 1, "id": 114},  
+
+        {"question": "__ og __: hvordan velger du pornoen du skal se?", "totalP": 2, "itchy": 0, "id": 115},  
+
+        {"question": "__ og __: er du keen på noen for øyeblikket?", "totalP": 2, "itchy": 0, "id": 116},  
+
+        {"question": "__ og __: hva er den beste gaven du noensinne har gitt?", "totalP": 2, "itchy": 1, "id": 117},  
+
+        {"question": "__ og __: hva er den beste gaven du noensinne har fått?", "totalP": 2, "itchy": 1, "id": 118},  
+
+        {"question": "__ og __: hvordan ville du ha fjernet et lik?", "totalP": 2, "itchy": 0, "id": 119},  
+
+        {"question": "__ og __: hva er ditt favorittbanneord?", "totalP": 2, "itchy": 0, "id": 120},  
+
+        {"question": "__ og __: favorittgodteri?", "totalP": 2, "itchy": 0, "id": 121},  
+
+        {"question": "__ og __: har du noen guilty pleasures?", "totalP": 2, "itchy": 0, "id": 122},  
+
+        {"question": "__ og __: hva er den skumleste scenen du noensinne har sett i en film?", "totalP": 2, "itchy": 0, "id": 123},  
+
+        {"question": "__ og __: hva er ditt favorittspill?", "totalP": 2, "itchy": 0, "id": 124},  
+
+        {"question": "__ og __: hva er din favorittsang?", "totalP": 2, "itchy": 0, "id": 125},  
+
+        {"question": "__ og __: hva slags ikke-menneskelig ting finner du mest sexy?", "totalP": 2, "itchy": 1, "id": 126},  
+
+        {"question": "__ og __: hva er det kjedeligste du noensinne har måttet gjøre?", "totalP": 2, "itchy": 0, "id": 127},  
+
+        {"question": "__ og __: hvordan var det første gang du ble full?", "totalP": 2, "itchy": 0, "id": 128},  
+
+        {"question": "__ og __: hva var den verste fylla du ha opplevd?", "totalP": 2, "itchy": 1, "id": 129},  
+
+        {"question": "__ og __: hvordan var det første gang du ble ekstremt drita?", "totalP": 2, "itchy": 1, "id": 130},  
+
+        {"question": "__ og __: fortell om sist gang du hadde sex", "totalP": 2, "itchy": 1, "id": 131},  
+
+        {"question": "__ og __: hva er den beste løgnen du noensinne har fortalt", "totalP": 2, "itchy": 0, "id": 132},  
+
+        {"question": "__ og __: hvem i familien din er du mest glad i?", "totalP": 2, "itchy": 0, "id": 133},  
+
+        {"question": "__ og __: hvem i familien din irriterende?", "totalP": 2, "itchy": 1, "id": 134},  
+
+        {"question": "__ og __: hvem vet mest om deg i hele verden?", "totalP": 2, "itchy": 0, "id": 135},  
+
+        {"question": "__ og __: hva er det ekleste du har gjort?", "totalP": 2, "itchy": 1, "id": 136},  
+
+        {"question": "__ og __: hvis du hadde blitt statsminister, hva er det første du ville ha innført?", "totalP": 2, "itchy": 0, "id": 137},  
+
+        {"question": "__ og __: hvilket kjøkkenredskap er din favoritt?", "totalP": 2, "itchy": 0, "id": 138},  
+
+        {"question": "__ og __: hva kom først, høna eller egget?", "totalP": 2, "itchy": 1, "id": 139},  
+
+        {"question": "__ og __: hvis du kunne tatt med deg hva som helst til en øde øy, hva ville det ha vært?", "totalP": 2, "itchy": 0, "id": 140},  
+
+        {"question": "__ og __: hva er det barnsligste du har gjort?", "totalP": 2, "itchy": 0, "id": 141},  
+
+        {"question": "__ og __: har dere noe dere har veldig lyst til å få av brystet nå?", "totalP": 2, "itchy": 0, "id": 142},  
+
+        {"question": "__ og __: hva er det slemmeste du noensinne har gjort?", "totalP": 2, "itchy": 0, "id": 143},  
+
+        {"question": "__ og __: hva er din største turn on?", "totalP": 2, "itchy": 0, "id": 144},  
+
+        {"question": "__ og __: hva er den verste opplevelsen du har hatt med kjærlighet", "totalP": 2, "itchy": 0, "id": 145},  
+
+        {"question": "__ og __: fortell oss om en gang du har blitt rejecta", "totalP": 2, "itchy": 0, "id": 146},  
+
+        {"question": "__ og __: hva er noe av det kleineste du har gjort i fylla", "totalP": 2, "itchy": 0, "id": 147},  
+
+        {"question": "__ og __: hva er din million dollar idea?", "totalP": 2, "itchy": 1, "id": 148},  
+
+        {"question": "__ og __: hva er den verste krangelen du har opplevd?", "totalP": 2, "itchy": 1, "id": 149},  
+
+        {"question": "__ og __: hva er kallenavnet på kjønnsorganet ditt", "totalP": 2, "itchy": 0, "id": 150},  
+
+        {"question": "__ og __: fortell en sjuk fortelling om noen i dette rommet", "totalP": 2, "itchy": 0, "id": 151},  
+
+        {"question": "__ og __: hva synes dere om klesstilen til __", "totalP": 3, "itchy": 1, "id": 152},  
+
+        {"question": "__ og __: hva er det rarest du fått en turn on av?", "totalP": 2, "itchy": 0, "id": 153}, 
+
+        {"question": "__ og __: hva er din største turn off?", "totalP": 2, "itchy": 0, "id": 154}, 
+
+        {"question": "__ og __: hvem er den beste partneren du har hatt?", "totalP": 2, "itchy": 0, "id": 155}, 
+
+        {"question": "__ og __: hva er den beste seksuelle opplevelsen du har hatt?", "totalP": 2, "itchy": 0, "id": 155}, 
+
+        {"question": "__ og __: hva finner du mest attraktivt med noen?", "totalP": 2, "itchy": 1, "id": 156}, 
+
+        {"question": "__ og __: hvem var det lengste crushet du noen sinne har hatt?", "totalP": 2, "itchy": 0, "id": 157}, 
+
+        {"question": "__ og __: hvem var ditt verste crush?", "totalP": 2, "itchy": 0, "id": 158}, 
+
+        {"question": "__ og __: hva ville du gjort hvis du fant ut at du skal få barn?", "totalP": 2, "itchy": 0, "id": 159}, 
+
+        {"question": "__ og __: hvis du skulle ha dedikert livet ditt til noe, hva ville det ha vært?", "totalP": 2, "itchy": 1, "id": 160},
+
+        {"question": "__ og __: hvordan påvirket COVID krisen deg?", "totalP": 2, "itchy": 1, "id": 161},
+
+        {"question": "__ og __: hva er det rareste stedet du har pult?", "totalP": 2, "itchy": 1, "id": 162},
+        {"question": "__ og __: hva er dine generelle prinsipper?", "totalP": 2, "itchy": 1, "id": 163},
+        {"question": "__ og __: hva burde du bli bedre til å si nei til?", "totalP": 2, "itchy": 1, "id": 164},
+        {"question": "__ og __: hvem stoler du mest på?", "totalP": 2, "itchy": 1, "id": 165},
+        {"question": "__ og __: hva er det mest romantiske du har opplevd?", "totalP": 2, "itchy": 1, "id": 166},
+        {"question": "__ og __: hvem ville du helst bli låst sammen i håndjern med?", "totalP": 2, "itchy": 1, "id": 167},
+        {"question": "__ og __: hvordan begynte du å runke?", "totalP": 2, "itchy": 1, "id": 168},
+        {"question": "__ og __: hva burde du bli bedre til å si nei til?", "totalP": 2, "itchy": 1, "id": 169},
+        {"question": "__ og __: hva burde du bli bedre til å si nei til?", "totalP": 2, "itchy": 1, "id": 170}
+    ]
+}

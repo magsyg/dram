@@ -1,0 +1,34 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^40.0.0",
+    "expo-asset": "^8.2.1",
+    "expo-constants": "^9.3.5",
+    "expo-font": "^8.0.0",
+    "expo-screen-orientation": "~2.1.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-orientation-locker": "^1.1.8",
+    "react-native-paper": "^3.12.0",
+    "react-native-swipe-gestures": "^1.0.4",
+    "react-native-web": "~0.13.12"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "babel-preset-expo": "8.3.0"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "private": true
+}

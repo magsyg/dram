@@ -1,0 +1,485 @@
+{
+        "title": "Hvem tror du?",
+        "underQ": "Den utvalgte er nå oppleser og må drikke 2 slurker, og de ved siden av må drikke 1 slurk",
+        "question": [
+            {"question": "__, hvem her hører mest på russesanger?", "totalP": 1, "itchy": 1, "id": 0},  
+
+            {"question": "__, hvem her er alltid for sen", "totalP": 1, "itchy": 1, "id": 1},  
+
+            {"question": "__, hvem her er oftest det femte hjulet?", "totalP": 1, "itchy": 1, "id": 2},  
+
+            {"question": "__, hvem her er flinkest til å ødelegge mobilen sin?", "totalP": 1, "itchy": 1, "id": 3},  
+
+            {"question": "__, hvem her kunne ha rømt hjemmefra?", "totalP": 1, "itchy": 0, "id": 4},  
+
+            {"question": "__, hvem her er den største trøbbelmakeren", "totalP": 1, "itchy": 1, "id": 5},  
+
+            {"question": "__, hvem her må gå om igjen på skolen", "totalP": 1, "itchy": 1, "id": 6},  
+
+            {"question": "__, hvem her dumper folk fortest", "totalP": 1, "itchy": 0, "id": 7},  
+
+            {"question": "__, hvem her ville aldri ha dumpet noen?", "totalP": 1, "itchy": 1, "id": 8},  
+
+            {"question": "__, hvem her er den beste kjæresten?", "totalP": 1, "itchy": 1, "id": 9},  
+
+            {"question": "__, hvem her gjør mest dumme ting", "totalP": 1, "itchy": 1, "id": 10},  
+
+            {"question": "__, hvem her kommer til å vinne en Nobels Fredspris?", "totalP": 1, "itchy": 1, "id": 11},  
+
+            {"question": "__, hvem her har flest venner på snapchat?", "totalP": 1, "itchy": 1, "id": 12},  
+
+            {"question": "__, hvem her kommer til å dø av for mange kjønnssykdommer?", "totalP": 1, "itchy": 0, "id": 13},  
+
+            {"question": "__, hvem her kommer til å bli berømt?", "totalP": 1, "itchy": 1, "id": 14},  
+
+            {"question": "__, hvem her er en seriemorder?", "totalP": 1, "itchy": 0, "id": 15},  
+
+            {"question": "__, hvem her er et romvesen?", "totalP": 1, "itchy": 1, "id": 16},  
+
+            {"question": "__, hvem her ville ha walked 500 miles and 500 more just to fall down at your door", "totalP": 1, "itchy": 1, "id": 17},  
+
+            {"question": "__, hvem her har de mest sexy familiemedlemmene", "totalP": 1, "itchy": 0, "id": 18},  
+
+            {"question": "__, hvem her kunne vunnet Dødslekene", "totalP": 1, "itchy": 1, "id": 19},  
+
+            {"question": "__, hvem her kaster bort mest penger", "totalP": 1, "itchy": 1, "id": 20},  
+
+            {"question": "__, hvem her kunne ha vært den beste piraten som noen gang har levd", "totalP": 1, "itchy": 1, "id": 21},  
+
+            {"question": "__, hvem her har den fineste rumpa", "totalP": 1, "itchy": 0, "id": 22},  
+
+            {"question": "__, hvem her har den fineste kroppen", "totalP": 1, "itchy": 0, "id": 23},  
+
+            {"question": "__, hvem her er den neste Einstein", "totalP": 1, "itchy": 1, "id": 24},  
+
+            {"question": "__, hvem her er mest uskyldig", "totalP": 1, "itchy": 1, "id": 25},  
+
+            {"question": "__, hvem her hører på romantiske sanger under sex", "totalP": 1, "itchy": 0, "id": 26},  
+
+            {"question": "__, hvem her er den verste hjerteknuseren", "totalP": 1, "itchy": 0, "id": 27},  
+
+            {"question": "__, hvem her prøver hardest å komme seg ned i buksa på noen", "totalP": 1, "itchy": 0, "id": 28},  
+
+            {"question": "__, hvem her kunne ligget med en venns familiemedlem", "totalP": 1, "itchy": 0, "id": 29},  
+
+            {"question": "__, hvem her skal være din partner i crime", "totalP": 1, "itchy": 1, "id": 30},  
+
+            {"question": "__, hvem her er en furry", "totalP": 1, "itchy": 1, "id": 31},  
+
+            {"question": "__, hvem her driver med BDSM", "totalP": 1, "itchy": 0, "id": 32},  
+
+            {"question": "__, hvem her er Cam fra Modern Family", "totalP": 1, "itchy": 1, "id": 33},  
+
+            {"question": "__, hvem her er en skoleskyter", "totalP": 1, "itchy": 0, "id": 34},  
+
+            {"question": "__, hvem her har en gigantisk penis", "totalP": 1, "itchy": 0, "id": 35},  
+
+            {"question": "__, hvem her kommer til å bytte kjønn", "totalP": 1, "itchy": 0, "id": 36},  
+
+            {"question": "__, hvem her kommer til å ende opp i fengsel", "totalP": 1, "itchy": 1, "id": 37},  
+
+            {"question": "__, hvem her må få seg noe snart", "totalP": 1, "itchy": 1, "id": 38},  
+
+            {"question": "__, hvem her er gjerrigst", "totalP": 1, "itchy": 1, "id": 39},  
+
+            {"question": "__, hvem her er mest gavmild", "totalP": 1, "itchy": 1, "id": 40},  
+
+            {"question": "__, hvem her poserer mest foran speilet", "totalP": 1, "itchy": 1, "id": 41},  
+
+            {"question": "__, hvem her er en saue-shagger", "totalP": 1, "itchy": 0, "id": 42},  
+
+            {"question": "__, hvem her mister nøklene sine oftest", "totalP": 1, "itchy": 1, "id": 43},  
+
+            {"question": "__, hvem her mister mobilen i bakken oftest", "totalP": 1, "itchy": 1, "id": 44},  
+
+            {"question": "__, hvem her får et uplanlagt barn", "totalP": 1, "itchy": 0, "id": 45},  
+
+            {"question": "__, hvem her dør først i en skrekkfilm", "totalP": 1, "itchy": 1, "id": 46},  
+
+            {"question": "__, hvem her kommer til å dø først", "totalP": 1, "itchy": 0, "id": 47},  
+
+            {"question": "__, hvem her er av rojal ætt", "totalP": 1, "itchy": 1, "id": 48},  
+
+            {"question": "__, hvem her kommer til å ende opp i en slåsskamp", "totalP": 1, "itchy": 0, "id": 49},  
+
+            {"question": "__, hvem her er den beste kokken?", "totalP": 1, "itchy": 1, "id": 50},  
+
+            {"question": "__, hvem her kommer ikke til å huske denne kvelden", "totalP": 1, "itchy": 1, "id": 51},  
+
+            {"question": "__, hvem her er mest beskjeden", "totalP": 1, "itchy": 1, "id": 52},  
+
+            {"question": "__, hvem her er en narc", "totalP": 1, "itchy": 1, "id": 53},  
+
+            {"question": "__, hvem her gjør mest dop", "totalP": 1, "itchy": 0, "id": 54},  
+
+            {"question": "__, hvem her blir fortsatt ammet", "totalP": 1, "itchy": 0, "id": 55},  
+
+            {"question": "__, hvem her har en første date på et fastfood sted", "totalP": 1, "itchy": 1, "id": 56},  
+
+            {"question": "__, hvem her argumenterer mest", "totalP": 1, "itchy": 1, "id": 57},  
+
+            {"question": "__, hvem her kommer til å ende opp på reality TV", "totalP": 1, "itchy": 1, "id": 58},  
+
+            {"question": "__, hvem her drikker mest", "totalP": 1, "itchy": 1, "id": 59},  
+
+            {"question": "__, hvem her blir mest følsom i fylla", "totalP": 1, "itchy": 0, "id": 60},  
+
+            {"question": "__, hvem her gamer istedenfor å dra ut på kvelden", "totalP": 1, "itchy": 1, "id": 61},  
+
+            {"question": "__, hvem her kler seg mest provokativt", "totalP": 1, "itchy": 0, "id": 62},  
+
+            {"question": "__, hvem her kunne ha brukt et kjæledyr for å sjekke opp noen", "totalP": 1, "itchy": 0, "id": 63},  
+
+            {"question": "__, hvem her ser yngre ut enn det de er", "totalP": 1, "itchy": 1, "id": 64},  
+
+            {"question": "__, hvem her ser eldre ut enn det de er", "totalP": 1, "itchy": 1, "id": 65},  
+
+            {"question": "__, hvem her er mest populær", "totalP": 1, "itchy": 1, "id": 66},  
+
+            {"question": "__, hvem her kunne ha levd i jungelen", "totalP": 1, "itchy": 1, "id": 67},  
+
+            {"question": "__, hvem her er en memelord", "totalP": 1, "itchy": 1, "id": 68},  
+
+            {"question": "__, hvem her kunne ha blitt med på Raidet på Area 51", "totalP": 1, "itchy": 1, "id": 69},  
+
+            {"question": "__, hvem her er en kannibal", "totalP": 1, "itchy": 0, "id": 70},  
+
+            {"question": "__, hvem her er ikke full nok", "totalP": 1, "itchy": 1, "id": 71},  
+
+            {"question": "__, hvem her er mest full nå", "totalP": 1, "itchy": 0, "id": 72},  
+
+            {"question": "__, hvem her trenger å finne seg et rom", "totalP": 1, "itchy": 0, "id": 73},  
+
+            {"question": "__, hvem her kunne ha blitt en narkolanger", "totalP": 1, "itchy": 0, "id": 74},  
+
+            {"question": "__, hvem her er en bad guy duh", "totalP": 1, "itchy": 1, "id": 75},  
+
+            {"question": "__, hvem her er en anarkist", "totalP": 1, "itchy": 1, "id": 76},  
+
+            {"question": "__, hvem her lever raskt og dør ung", "totalP": 1, "itchy": 1, "id": 77},  
+
+            {"question": "__, hvem her er den neste Steve Jobs", "totalP": 1, "itchy": 1, "id": 78},  
+
+            {"question": "__, hvem her er den neste Picasso", "totalP": 1, "itchy": 1, "id": 79},  
+
+            {"question": "__, hvem her kunne ha jobbet med porno", "totalP": 1, "itchy": 0, "id": 80},  
+
+            {"question": "__, hvem her hører på den rareste musikken", "totalP": 1, "itchy": 1, "id": 81},  
+
+            {"question": "__, hvem her har den beste drikken", "totalP": 1, "itchy": 1, "id": 82},  
+
+            {"question": "__, hvem her har den verste drikken", "totalP": 1, "itchy": 1, "id": 83},  
+
+            {"question": "__, hvem her er mest ansvarlig", "totalP": 1, "itchy": 1, "id": 84},  
+
+            {"question": "__, hvem her er den beste løgneren", "totalP": 1, "itchy": 0, "id": 85},  
+
+            {"question": "__, hvem her er mest på sosiale medier", "totalP": 1, "itchy": 1, "id": 86},  
+
+            {"question": "__, hvem her ville ha kravlet tilbake til noen", "totalP": 1, "itchy": 0, "id": 87},  
+
+            {"question": "__, hvem her kunne ha sagt jeg elsker deg to uker inn i et forhold", "totalP": 1, "itchy": 0, "id": 88},  
+
+            {"question": "__, hvem her er den største dramaqueenen", "totalP": 1, "itchy": 1, "id": 89},  
+
+            {"question": "__, hvem her kommer i mest trøbbel", "totalP": 1, "itchy": 1, "id": 90},  
+
+            {"question": "__, hvem her er høyest på seg selv", "totalP": 1, "itchy": 1, "id": 91},  
+
+            {"question": "__, hvem her har den rareste fetishen", "totalP": 1, "itchy": 0, "id": 92},  
+
+            {"question": "__, hvem her ville ha sjekket opp noen som nettopp ble myndig", "totalP": 1, "itchy": 0, "id": 93},  
+
+            {"question": "__, hvem her ser best ut", "totalP": 1, "itchy": 1, "id": 94},  
+
+            {"question": "__, hvem her har den største nesa", "totalP": 1, "itchy": 1, "id": 95},  
+
+            {"question": "__, hvem her liker rollespill i senga", "totalP": 1, "itchy": 0, "id": 96},  
+
+            {"question": "__, hvem her kunne ha pult en lærer eller sjefen", "totalP": 1, "itchy": 0, "id": 97},  
+
+            {"question": "__, hvem her er MacGyver", "totalP": 1, "itchy": 1, "id": 98},  
+
+            {"question": "__, hvem her har den lengste tørka", "totalP": 1, "itchy": 0, "id": 99},  
+
+            {"question": "__, hvem her kunne ha styrt gatene", "totalP": 1, "itchy": 1, "id": 100},  
+
+            {"question": "__, hvem her kommer til å få en sugar daddy eller momma", "totalP": 1, "itchy": 0, "id": 101},  
+
+            {"question": "__, hvem her kunne ha gått i drag", "totalP": 1, "itchy": 0, "id": 102},  
+
+            {"question": "__, hvem her kysser mest ræv", "totalP": 1, "itchy": 0, "id": 103},  
+
+            {"question": "__, hvem her spiser mest ræv", "totalP": 1, "itchy": 0, "id": 104},  
+
+            {"question": "__, hvem her arbeider mest", "totalP": 1, "itchy": 1, "id": 105},  
+
+            {"question": "__, hvem her spiller mest videospill", "totalP": 1, "itchy": 1, "id": 106},  
+
+            {"question": "__, hvem her er den største nerden", "totalP": 1, "itchy": 1, "id": 107},  
+
+            {"question": "__, hvem her er rikest", "totalP": 1, "itchy": 1, "id": 108},  
+
+            {"question": "__, hvem her kunne ha blitt amish", "totalP": 1, "itchy": 1, "id": 109},  
+
+            {"question": "__, hvem her er kåtest", "totalP": 1, "itchy": 0, "id": 110},  
+
+            {"question": "__, hvem her kunne ha pult noen i dette rommet", "totalP": 1, "itchy": 0, "id": 111},  
+
+            {"question": "__, hvem her lager de rareste lydene i senga", "totalP": 1, "itchy": 0, "id": 112},  
+
+            {"question": "__, hvem her er mest impulsiv", "totalP": 1, "itchy": 1, "id": 113},  
+
+            {"question": "__, hvem her kan ikke bli tilfredsstilt", "totalP": 1, "itchy": 0, "id": 114},  
+
+            {"question": "__, hvem her er mest utålmodig", "totalP": 1, "itchy": 1, "id": 115},  
+
+            {"question": "__, hvem her bruker de kleineste sjekkereplikkene", "totalP": 1, "itchy": 1, "id": 116},  
+
+            {"question": "__, hvem her har hatt sex med flest", "totalP": 1, "itchy": 0, "id": 117},  
+
+            {"question": "__, hvem her vil du ha som livvakt", "totalP": 1, "itchy": 1, "id": 118},  
+
+            {"question": "__, hvem her er farligst", "totalP": 1, "itchy": 0, "id": 119},  
+
+            {"question": "__, hvem her er kunne aldri skadet en flue", "totalP": 1, "itchy": 1, "id": 120},  
+
+            {"question": "__, hvem her masturberer oftest", "totalP": 1, "itchy": 0, "id": 121},  
+
+            {"question": "__, hvem her er en ensom ulv", "totalP": 1, "itchy": 1, "id": 122},  
+
+            {"question": "__, hvem her spiser mest frossen pizza", "totalP": 1, "itchy": 1, "id": 123},  
+
+            {"question": "__, hvem her er den verste sjåføren", "totalP": 1, "itchy": 1, "id": 124},  
+
+            {"question": "__, hvem her er den største teasen", "totalP": 1, "itchy": 0, "id": 125},  
+
+            {"question": "__, hvem her er den største juksemakeren", "totalP": 1, "itchy": 1, "id": 126},  
+
+            {"question": "__, hvem her er den galeste", "totalP": 1, "itchy": 1, "id": 127},  
+
+            {"question": "__, hvem her er mest barnslig", "totalP": 1, "itchy": 1, "id": 128},  
+
+            {"question": "__, hvem her er den mest skummel", "totalP": 1, "itchy": 1, "id": 129},  
+
+            {"question": "__, hvem her er mest overlegen", "totalP": 1, "itchy": 1, "id": 130},  
+
+            {"question": "__, hvem her er tåler minst", "totalP": 1, "itchy": 0, "id": 131},  
+
+            {"question": "__, hvem her er sterkest", "totalP": 1, "itchy": 1, "id": 132},  
+
+            {"question": "__, hvem her er svakest", "totalP": 1, "itchy": 0, "id": 133},  
+
+            {"question": "__, hvem her er mest kosete", "totalP": 1, "itchy": 1, "id": 134},  
+
+            {"question": "__, hvem her har det vakreste smilet", "totalP": 1, "itchy": 1, "id": 135},  
+
+            {"question": "__, hvem her får de fineste barna", "totalP": 1, "itchy": 1, "id": 136},  
+
+            {"question": "__, hvem her kan gjøre den beste grimasen", "totalP": 1, "itchy": 1, "id": 137},  
+
+            {"question": "__, hvem her er en maniac on the floor and is dancing like never done before", "totalP": 1, "itchy": 1, "id": 138},  
+
+            {"question": "__, hvem her kommer raskest", "totalP": 1, "itchy": 0, "id": 139},  
+
+            {"question": "__, hvem her er best i senga", "totalP": 1, "itchy": 0, "id": 140},  
+
+            {"question": "__, hvem her mistet jomfrudommen i tidligst alder", "totalP": 1, "itchy": 0, "id": 141},  
+
+            {"question": "__, hvem her pult flest ganger på en uke", "totalP": 1, "itchy": 0, "id": 142},  
+
+            {"question": "__, hvem her har hatt en perfect week", "totalP": 1, "itchy": 0, "id": 143},  
+
+            {"question": "__, hvem her barberte seg nedentil sist", "totalP": 1, "itchy": 0, "id": 144},  
+
+            {"question": "__, hvem her får barn først", "totalP": 1, "itchy": 0, "id": 145},  
+
+            {"question": "__, hvem her har pult i utlandet", "totalP": 1, "itchy": 0, "id": 146},  
+
+            {"question": "__, hvem her får aldri barn", "totalP": 1, "itchy": 0, "id": 147},  
+
+            {"question": "__, hvem her får kjæreste snart", "totalP": 1, "itchy": 0, "id": 148},  
+
+            {"question": "__, hvem her er mest på telefonen", "totalP": 1, "itchy": 1, "id": 149},  
+
+            {"question": "__, hvem her kunne ha solgt en penn til hvem som helst", "totalP": 1, "itchy": 1, "id": 150},  
+
+            {"question": "__, hvem her er mest kresen", "totalP": 1, "itchy": 1, "id": 151},  
+
+            {"question": "__, hvem her er minst kresen", "totalP": 1, "itchy": 1, "id": 152},  
+
+            {"question": "__, hvem her er vanskeligst å være i et forhold med", "totalP": 1, "itchy": 0, "id": 153},  
+
+            {"question": "__, hvem her er mest introvert", "totalP": 1, "itchy": 0, "id": 154},  
+
+            {"question": "__, hvem her er den største filosofen", "totalP": 1, "itchy": 1, "id": 155},  
+
+            {"question": "__, hvem her er en feminazi", "totalP": 1, "itchy": 0, "id": 156},  
+
+            {"question": "__, hvem her er en masochist", "totalP": 1, "itchy": 0, "id": 157},  
+
+            {"question": "__, hvem her er en sadist i senga", "totalP": 1, "itchy": 0, "id": 158},  
+
+            {"question": "__, hvem her er mest tøffel", "totalP": 1, "itchy": 1, "id": 159},  
+
+            {"question": "__, hvem her er mest uheldig", "totalP": 1, "itchy": 1, "id": 160},  
+
+            {"question": "__, hvem her har N-Word pass", "totalP": 1, "itchy": 1, "id": 161},  
+
+            {"question": "__, hvem her er mest fjern", "totalP": 1, "itchy": 1, "id": 162},  
+
+            {"question": "__, hvem her ser på mest anime", "totalP": 1, "itchy": 1, "id": 163},  
+
+            {"question": "__, hvem her er en den største synderen", "totalP": 1, "itchy": 1, "id": 164},  
+
+            {"question": "__, hvem her er en ninja", "totalP": 1, "itchy": 1, "id": 165},  
+
+            {"question": "__, hvem her har flest pulevenner", "totalP": 1, "itchy": 0, "id": 166},  
+
+            {"question": "__, hvem her er uhøfligst", "totalP": 1, "itchy": 1, "id": 167},  
+
+            {"question": "__, hvem her er mest høflig", "totalP": 1, "itchy": 1, "id": 168},  
+
+            {"question": "__, hvem her har finest hus", "totalP": 1, "itchy": 1, "id": 169},  
+
+            {"question": "__, hvem her har det rareste huset", "totalP": 1, "itchy": 1, "id": 170},  
+
+            {"question": "__, hvem her er mest rotete", "totalP": 1, "itchy": 1, "id": 171},  
+
+            {"question": "__, hvem her bør ha nach", "totalP": 1, "itchy": 1, "id": 172},  
+
+            {"question": "__, hvem her kommer inn gratis på klubber", "totalP": 1, "itchy": 1, "id": 173},  
+
+            {"question": "__, hvem her drar hjem først", "totalP": 1, "itchy": 1, "id": 174},  
+
+            {"question": "__, hvem her spanderer mest drikke", "totalP": 1, "itchy": 1, "id": 175},  
+
+            {"question": "__, hvem her er mest flørtete", "totalP": 1, "itchy": 1, "id": 176},  
+
+            {"question": "__, hvem her må bli passet på i fylla", "totalP": 1, "itchy": 0, "id": 177},  
+
+            {"question": "__, hvem her ville du hatt som slave", "totalP": 1, "itchy": 0, "id": 178},  
+
+            {"question": "__, hvem her ville du ikke ha hatt som slavemester", "totalP": 1, "itchy": 0, "id": 179},  
+
+            {"question": "__, hvem her donerer penger til pornostjerner", "totalP": 1, "itchy": 0, "id": 180},  
+
+            {"question": "__, hvem her blir kasta ut av festen", "totalP": 1, "itchy": 1, "id": 181},  
+
+            {"question": "__, hvem her er mest irriterende i fylla", "totalP": 1, "itchy": 0, "id": 182},  
+
+            {"question": "__, hvem her er mest ærlig", "totalP": 1, "itchy": 1, "id": 183},  
+
+            {"question": "__, hvem her er en legende på Tinder", "totalP": 1, "itchy": 1, "id": 184},  
+
+            {"question": "__, hvem her kunne ha kjøpt sex", "totalP": 1, "itchy": 0, "id": 185},  
+
+            {"question": "__, hvem her kunne ha solgt sex", "totalP": 1, "itchy": 0, "id": 186},  
+
+            {"question": "__, hvem her sender flest nudes", "totalP": 1, "itchy": 0, "id": 187},  
+
+            {"question": "__, hvem her kunne ha pult noen på et offentlig toalett", "totalP": 1, "itchy": 0, "id": 188},  
+
+            {"question": "__, hvem her er verst på sosiale medier", "totalP": 1, "itchy": 1, "id": 189},  
+
+            {"question": "__, hvem her pulte sist", "totalP": 1, "itchy": 1, "id": 190},  
+
+            {"question": "__, hvem her bryr seg minst om hvor de puler", "totalP": 1, "itchy": 0, "id": 191},  
+
+            {"question": "__, hvem her har størst busk", "totalP": 1, "itchy": 0, "id": 192},  
+
+            {"question": "__, hvem her har de beste sjekketriksene", "totalP": 1, "itchy": 1, "id": 193},  
+
+            {"question": "__, hvem her har de lengste My Storyene", "totalP": 1, "itchy": 1, "id": 194},  
+
+            {"question": "__, hvem her har aldri hatt sex edru", "totalP": 1, "itchy": 0, "id": 195},  
+
+            {"question": "__, hvem her sender de verste snapsene", "totalP": 1, "itchy": 1, "id": 196},  
+
+            {"question": "__, hvem her er din rival", "totalP": 1, "itchy": 1, "id": 197},  
+
+            {"question": "__, hvem her er den beste tyven", "totalP": 1, "itchy": 1, "id": 198},  
+
+            {"question": "__, hvem her støtter Trump", "totalP": 1, "itchy": 1, "id": 199},  
+
+            {"question": "__, hvem her er den største kommunisten", "totalP": 1, "itchy": 1, "id": 200},  
+
+            {"question": "__, hvem her lever et dobbeltliv", "totalP": 1, "itchy": 1, "id": 201},  
+
+            {"question": "__, hvem her kunne ha blitt forfatter", "totalP": 1, "itchy": 1, "id": 202},  
+
+            {"question": "__, hvem her er den beste skuespilleren", "totalP": 1, "itchy": 1, "id": 203},  
+
+            {"question": "__, hvem her er den største tullingen", "totalP": 1, "itchy": 1, "id": 204},  
+
+            {"question": "__, hvem her er den beste kjæresten", "totalP": 1, "itchy": 1, "id": 205},  
+
+            {"question": "__, hvem her kunne ha plutselig forsvunnet", "totalP": 1, "itchy": 1, "id": 206},  
+
+            {"question": "__, hvem her skulker mest", "totalP": 1, "itchy": 1, "id": 207},  
+
+            {"question": "__, hvem her sover mest", "totalP": 1, "itchy": 1, "id": 208},  
+
+            {"question": "__, hvem her ligner mest på en kjendis", "totalP": 1, "itchy": 1, "id": 209},  
+
+            {"question": "__, hvem her er den største parasitten", "totalP": 1, "itchy": 0, "id": 210},  
+
+            {"question": "__, hvem her er gruppens sentrum", "totalP": 1, "itchy": 1, "id": 211},  
+
+            {"question": "__, hvem her er den største pysa", "totalP": 1, "itchy": 1, "id": 212},  
+
+            {"question": "__, hvem her loker mest", "totalP": 1, "itchy": 1, "id": 213},  
+
+            {"question": "__, hvem her har flest crush", "totalP": 1, "itchy": 1, "id": 214},  
+
+            {"question": "__, hvem her har flest hemmelige beundrere", "totalP": 1, "itchy": 1, "id": 215},  
+
+            {"question": "__, hvem her nyter sex mest", "totalP": 1, "itchy": 0, "id": 216},  
+
+            {"question": "__, hvem her er aseksuell", "totalP": 1, "itchy": 0, "id": 217},  
+
+            {"question": "__, hvem her er nærmest deg", "totalP": 1, "itchy": 1, "id": 218},  
+
+            {"question": "__, hvem her er en ryktemester", "totalP": 1, "itchy": 1, "id": 219},  
+
+            {"question": "__, hvem her har de største føttene", "totalP": 1, "itchy": 1, "id": 220},  
+
+            {"question": "__, hvem her kunne ha pult læreren sin", "totalP": 1, "itchy": 0, "id": 221},  
+
+            {"question": "__, hvem her blir kåt av å bli rørt", "totalP": 1, "itchy": 0, "id": 222},  
+
+            {"question": "__, hvem her ghoster mest", "totalP": 1, "itchy": 1, "id": 223},  
+
+            {"question": "__, hvem her tar ikke et nei for et nei", "totalP": 1, "itchy": 0, "id": 224},  
+
+            {"question": "__, hvem her angrer mest på ting de gjør i fylla", "totalP": 1, "itchy": 1, "id": 225},  
+
+            {"question": "__, hvem her er mest trashy", "totalP": 1, "itchy": 1, "id": 226},  
+
+            {"question": "__, hvem her er mest classy", "totalP": 1, "itchy": 1, "id": 227},  
+
+            {"question": "__, hvem her krangler mest", "totalP": 1, "itchy": 1, "id": 228},  
+
+            {"question": "__, hvem her driver med mest fotflørting?", "totalP": 1, "itchy": 0, "id": 229},  
+
+            {"question": "__, hvem her er mest intim", "totalP": 1, "itchy": 0, "id": 230},  
+
+            {"question": "__, hvem her bryr seg minst om andres personal space?", "totalP": 1, "itchy": 0, "id": 231},  
+
+            {"question": "__, hvem her har sett flest TV-serier?", "totalP": 1, "itchy": 1, "id": 232},  
+
+            {"question": "__, hvem her har størst babyfeber?", "totalP": 1, "itchy": 1, "id": 233}, 
+
+            {"question": "__, hvem her har mest big dick energy?", "totalP": 1, "itchy": 1, "id": 234}, 
+
+            {"question": "__, hvem her squirter mest", "totalP": 1, "itchy": 1, "id": 235}, 
+
+            {"question": "__, hvem her blir fortest sjalu?", "totalP": 1, "itchy": 1, "id": 236}, 
+
+            {"question": "__, hvem her har mest big dick energy?", "totalP": 1, "itchy": 1, "id": 234},
+
+            {"question": "__, hvem her er best til å strippe?", "totalP": 1, "itchy": 1, "id": 235},
+
+            {"question": "__, hvem her er er mest pappa gutt/jente?", "totalP": 1, "itchy": 1, "id": 236}
+        ]
+}

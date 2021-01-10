@@ -1,0 +1,303 @@
+{
+    "title": "Enten eller",
+    "underQ": "Tommel opp for det første og tommel ned for det andre, de med minst må ta 2 slurker",
+    "question": [
+        {"question": "Penger ELLER Kjærlighet?", "totalP": 0, "itchy": 1, "id": 0},  
+
+        {"question": "Leve et kort og perfekt liv ELLER Et langt men normalt liv", "totalP": 0, "itchy": 1, "id": 1},  
+
+        {"question": "Ha en fantastisk og perfekt ektefelle ELLER Være Don Juan", "totalP": 0, "itchy": 1, "id": 2},  
+
+        {"question": "Være en superskurk ELLER Være en superhelt", "totalP": 0, "itchy": 1, "id": 3},  
+
+        {"question": "Øl ELLER Sprit", "totalP": 0, "itchy": 1, "id": 4},  
+
+        {"question": "Synge alt du sier ELLER Skrike alt du sier", "totalP": 0, "itchy": 1, "id": 5},  
+
+        {"question": "Være med noen som elsker deg men som du ikke elsker tilbake ELLER Være med noen du elsker men som ikke elsker deg tilbake", "totalP": 0, "itchy": 1, "id": 6},  
+
+        {"question": "Være ekstremt god i sex ELLER Ha den perfekte kroppen", "totalP": 0, "itchy": 0, "id": 7},  
+
+        {"question": "Ha ekstremt god karisma, men være dum ELLER Være et supergeni, men uten karisma", "totalP": 0, "itchy": 1, "id": 8},  
+
+        {"question": "Være verdenshersker ELLER Leve i paradis", "totalP": 0, "itchy": 1, "id": 9},  
+
+        {"question": "Ofre deg selv ELLER Ofre moren din", "totalP": 0, "itchy": 0, "id": 10},  
+
+        {"question": "Kunne stoppe tid ELLER Kunne dra fram og tilbake i tid", "totalP": 0, "itchy": 1, "id": 11},  
+
+        {"question": "Se ut som et vrak ELLER Lukte som dritt", "totalP": 0, "itchy": 1, "id": 12},  
+
+        {"question": "Aldri trenge å sove ELLER Aldri trenge å spise", "totalP": 0, "itchy": 1, "id": 13},  
+
+        {"question": "Pule __ ELLER __", "totalP": 2, "itchy": 0, "id": 14},  
+
+        {"question": "La noen bli henrettet for noe du gjorde ELLER Gå i fengsel for noe du ikke gjorde", "totalP": 0, "itchy": 1, "id": 15},  
+
+        {"question": "Pupper ELLER Rumpe", "totalP": 0, "itchy": 0, "id": 16},  
+
+        {"question": "One Direction ELLER Justin Bieber", "totalP": 0, "itchy": 1, "id": 17},  
+
+        {"question": "Date en person som nettopp har blitt myndig ELLER En som var 5 år eldre enn deg", "totalP": 0, "itchy": 0, "id": 18},  
+
+        {"question": "MDG ELLER Bompengepartiet", "totalP": 0, "itchy": 1, "id": 19},  
+
+        {"question": "Pule Donald Trump ELLER Adolf Hitler", "totalP": 0, "itchy": 0, "id": 20},  
+
+        {"question": "Kunne fly ELLER Være super rask", "totalP": 0, "itchy": 1, "id": 21},  
+
+        {"question": "Være omringet av folk som skryter hele tida ELLER Folk som klager hele tida", "totalP": 0, "itchy": 1, "id": 22},  
+
+        {"question": "Hikke hele tiden ELLER Nyse hele tiden", "totalP": 0, "itchy": 1, "id": 23},  
+
+        {"question": "Kunne snakke hvert eneste språk perfekt ELLER Kunne spille hvert instrument perfekt", "totalP": 0, "itchy": 1, "id": 24},  
+
+        {"question": "Aldri bruke internett ELLER Aldri bruke kjøleskap igjen", "totalP": 0, "itchy": 1, "id": 25},  
+
+        {"question": "Bare reise med Fly ELLER Bare reise med bil", "totalP": 0, "itchy": 1, "id": 26},  
+
+        {"question": "Vite når du skal dø ELLER Hvordan du skal dø", "totalP": 0, "itchy": 1, "id": 27},  
+
+        {"question": "Kun bruke stearinlys hjemme istedenfor lyspærer ELLER Bruke lyspærer hjemme men du lever svært miljøvennlige", "totalP": 0, "itchy": 1, "id": 28},  
+
+        {"question": "Ha en konstant ukontrollerbar orgasme ELLER Aldri ha en orgasme igjen", "totalP": 0, "itchy": 0, "id": 29},  
+
+        {"question": "Te ELLER Kaffe", "totalP": 0, "itchy": 1, "id": 30},  
+
+        {"question": "Ha evig mye lego og du tråkker aldri på de ELLER Ha evig med filmer, TV-serier og videospill men du tråkker på lego 50 ganger daglig", "totalP": 0, "itchy": 1, "id": 31},  
+
+        {"question": "Trene for å se bra ut ELLER Trene for å bli sterkere", "totalP": 0, "itchy": 1, "id": 32},  
+
+        {"question": "Kunne alltid forstå når folk lyver ELLER Aldri bli tatt i å lyve selv", "totalP": 0, "itchy": 1, "id": 33},  
+
+        {"question": "Ha sex med sjefen for forfremmelse ELLER ikke få en forfremmelse", "totalP": 0, "itchy": 0, "id": 34},  
+
+        {"question": "Aldri kunne lese igjen ELLER Aldri kunne høre på musikk igjen", "totalP": 0, "itchy": 1, "id": 35},  
+
+        {"question": "Altfor stor penis ELLER Liten penis", "totalP": 0, "itchy": 0, "id": 36},  
+
+        {"question": "Gå inn på foreldrene dine ha sex ELLER At de går inn på deg ha sex", "totalP": 0, "itchy": 1, "id": 37},  
+
+        {"question": "Farge håret i en ekstrem farge ELLER skinne deg", "totalP": 0, "itchy": 1, "id": 38},  
+
+        {"question": "Vær en baby resten av livet ditt ELLER Være gammel resten av livet ditt", "totalP": 0, "itchy": 1, "id": 39},  
+
+        {"question": "Ha høy IQ ELLER ha fotografisk hukommelse", "totalP": 0, "itchy": 1, "id": 40},  
+
+        {"question": "Jakte hvert måltid resten av livet ELLER Spise på MCdonalds resten av livet", "totalP": 0, "itchy": 1, "id": 41},  
+
+        {"question": "Være dum men glad ELLER Være smart men aldri tilfreds", "totalP": 0, "itchy": 1, "id": 42},  
+
+        {"question": "Være husket for å være en av de verste folkene gjennom historien ELLER Bli fullstendig glemt", "totalP": 0, "itchy": 1, "id": 43},  
+
+        {"question": "Sende nudes til sjefen ELLER Sende nudes til et familiemedlem", "totalP": 0, "itchy": 0, "id": 44},  
+
+        {"question": "Sove naken ELLER Sove i undertøy", "totalP": 0, "itchy": 1, "id": 45},  
+
+        {"question": "Være et offer i Saw filmene ELLER Være en sexslave", "totalP": 0, "itchy": 0, "id": 46},  
+
+        {"question": "Være ensom men rik ELLER Være fattig men populær", "totalP": 0, "itchy": 1, "id": 47},  
+
+        {"question": "Aldri bli gammel ELLER Aldri bli skadet", "totalP": 0, "itchy": 1, "id": 48},  
+
+        {"question": "Kebab ELLER Hamburger", "totalP": 0, "itchy": 1, "id": 49},  
+
+        {"question": "Hund ELLER Katt", "totalP": 0, "itchy": 1, "id": 50},  
+
+        {"question": "Være atletisk ELLER Være smart", "totalP": 0, "itchy": 1, "id": 51},  
+
+        {"question": "Ha stemmen til Morgan Freeman ELLER Ha stemmen til Seth Macfarlane", "totalP": 0, "itchy": 1, "id": 52},  
+
+        {"question": "Bli angripet av 30 kuer på størrelse til en mus ELLER en mus på størrelse på en ku", "totalP": 0, "itchy": 1, "id": 53},  
+
+        {"question": "Kle deg ut som en Pimp ELLER Kle deg som en gammeldags punker", "totalP": 0, "itchy": 1, "id": 54},  
+
+        {"question": "Eie 1000 teddybjørner eller 1 teddybjørn like stor som en bil", "totalP": 0, "itchy": 1, "id": 55},  
+
+        {"question": "Mac ELLER PC", "totalP": 0, "itchy": 1, "id": 56},  
+
+        {"question": "Være en vellykket atlet ELLER En berømt komiker", "totalP": 0, "itchy": 1, "id": 57},  
+
+        {"question": "Bare lytte til julesanger ELLER Aldri høre på musikk igjen", "totalP": 0, "itchy": 1, "id": 58},  
+
+        {"question": "Hver eneste sang i verden er bare utført av Pitbull ELLER Den eneste sangen i verden er skrevet av Pitbull men hver artist har et cover av den", "totalP": 0, "itchy": 1, "id": 59},  
+
+        {"question": "Være en anime karakter ELLER Være en disney karakter", "totalP": 0, "itchy": 1, "id": 60},  
+
+        {"question": "Skjorta din er alltid for stor ELLER Skjorten din er alltid for liten", "totalP": 0, "itchy": 1, "id": 61},  
+
+        {"question": "Ha en enkel jobb ELLER Ha en skikkelig vanskelig jobb du tjener mye på", "totalP": 0, "itchy": 1, "id": 62},  
+
+        {"question": "Ha en Pinocchio nese ELLER Ha Dumbo ører", "totalP": 0, "itchy": 1, "id": 63},  
+
+        {"question": "Livet ditt er som the Truman Show ELLER Alle som er i nærheten av deg kan lese tankene dine", "totalP": 0, "itchy": 1, "id": 64},  
+
+        {"question": "Kunne kontrollere alt levende ELLER Kunne kontrollere alt elektrisk", "totalP": 0, "itchy": 1, "id": 65},  
+
+        {"question": "Gå med en hale hele tiden ELLER bruke en maske hele tiden", "totalP": 0, "itchy": 1, "id": 66},  
+
+        {"question": "Drepe 1 person for å redde livet til 3 Personer ELLER La 3 personer død men ikke drepe noen", "totalP": 0, "itchy": 1, "id": 67},  
+
+        {"question": "Bra kropp ELLER Fint Ansikt", "totalP": 0, "itchy": 1, "id": 68},  
+
+        {"question": "Bli dritet på brystet under sex ELLER Tisset i ansiktet under sex", "totalP": 0, "itchy": 0, "id": 69},  
+
+        {"question": "Lommeringe moren din under sex så hun hører alt som skjer ELLER At vennene dine spionerer på deg under akten", "totalP": 0, "itchy": 0, "id": 70},  
+
+        {"question": "Pule i en bil ELLER Pule i et tre", "totalP": 0, "itchy": 0, "id": 71},  
+
+        {"question": "Være på topp under sex ELLER Være på bunn under sex", "totalP": 0, "itchy": 1, "id": 72},  
+
+        {"question": "Skrike Mamma hver gang du får en orgasme ELLER Prompe og rape når du får en orgasme", "totalP": 0, "itchy": 0, "id": 73},  
+
+        {"question": "Aldri pule igjen ELLER Aldri har Internett igjen", "totalP": 0, "itchy": 1, "id": 74},  
+
+        {"question": "Være en legendarisk musiker, men være blind ELLER Være en fantastisk kunstner, men være døv", "totalP": 0, "itchy": 1, "id": 75},  
+
+        {"question": "Ha en sang konstant på hjernen ELLER Alltid bli blendet", "totalP": 0, "itchy": 1, "id": 76},  
+
+        {"question": "Være håpløst forelsket i en som aldri kan bli din og som gifter seg med bestevennen din ELLER Finne ut at noen du er sammen med har vært utro med bestevennen din", "totalP": 0, "itchy": 1, "id": 77},  
+
+        {"question": "Ha venner som konstant spammer deg ELLER Ha venner som er dårlige på å svare på meldinger", "totalP": 0, "itchy": 1, "id": 78},  
+
+        {"question": "At folk alltid prøver å snakke med deg når du har øretelefoner på ELLER At alle andre glemmer alltid å skylle ned", "totalP": 0, "itchy": 1, "id": 79},  
+
+        {"question": "Være alltid for varm ELLER Alltid være for kald", "totalP": 0, "itchy": 1, "id": 80},  
+
+        {"question": "Alltid bli avbrutt når du snakker ELLER Alltid bli bedt om å repetere deg selv", "totalP": 0, "itchy": 1, "id": 81},  
+
+        {"question": "Tråkke på noe vått når du bare går i sokker ELLER Tygge alt for hardt i en appelsin og treffe en stein", "totalP": 0, "itchy": 1, "id": 82},  
+
+        {"question": "Spise noe som er levende ELLER Noe som er rottent", "totalP": 0, "itchy": 1, "id": 83},  
+
+        {"question": "Leve i vakker løgn ELLER Leve en i en ekkel sannhet", "totalP": 0, "itchy": 1, "id": 84},  
+
+        {"question": "Bli begravet når du dør ELLER Bli kremert når du dør", "totalP": 0, "itchy": 1, "id": 85},  
+
+        {"question": "Være klissete hele tiden ELLER Ha en kløe hele tiden", "totalP": 0, "itchy": 1, "id": 86},  
+
+        {"question": "Aldri måtte tisse igjen ELLER Aldri måtte bæsje igjen", "totalP": 0, "itchy": 1, "id": 87},   
+
+        {"question": "Ha et svært erotisk forhold ELLER Ha et svært romantisk forhold", "totalP": 0, "itchy": 0, "id": 89},  
+
+        {"question": "Bannlyse alle sexistiske vitser ELLER Bannlyse alle rasistiske vitser", "totalP": 0, "itchy": 1, "id": 90},  
+
+        {"question": "Måtte synge hver sang som kommer på i bakgrunnen perfekt ELLER Måtte danse sinnsykt bra til hver sang du hører", "totalP": 0, "itchy": 1, "id": 91},  
+
+        {"question": "Ikke kunne sove mer enn 4 timer ELLER Måtte sove 16 timer hver gang du sover", "totalP": 0, "itchy": 1, "id": 92},  
+
+        {"question": "Leve i steinalderen ELLER Leve i nåtidens Nord Korea", "totalP": 0, "itchy": 1, "id": 93},  
+
+        {"question": "Pepsi ELLER Coca Cola", "totalP": 0, "itchy": 1, "id": 94},  
+
+        {"question": "Ha en fobi for fargen blå ELLER Ha en fobi for fargen grønn", "totalP": 0, "itchy": 1, "id": 95},  
+
+        {"question": "Ha en kjæleedderkopp ELLER Ha en kjæle slange", "totalP": 0, "itchy": 1, "id": 96},  
+
+        {"question": "Aldri kutte håret igjen ELLER Bli skallet", "totalP": 0, "itchy": 1, "id": 97},  
+
+        {"question": "Få en million kroner ELLER Gi en million kroner til veldedighet", "totalP": 0, "itchy": 1, "id": 98},  
+
+        {"question": "Være en robot ELLER være et romvesen", "totalP": 0, "itchy": 1, "id": 99},  
+
+        {"question": "Være alenebarn ELLER Ha søsken", "totalP": 0, "itchy": 1, "id": 100},  
+
+        {"question": "Tjene 10 øre for hvert skritt du tar ELLER 10 krone for hver gang du hopper", "totalP": 0, "itchy": 1, "id": 101},  
+
+        {"question": "Tette den eneste dassen på en fest ELLER Drite i hagen utenfor festen", "totalP": 0, "itchy": 0, "id": 102},  
+
+        {"question": "La noen ta kontroll over kroppen din i en måned ELLER Måtte følge ordrene til en annen person i et helt år", "totalP": 0, "itchy": 1, "id": 103},  
+
+        {"question": "Være en katt men menneskelige tanker ELLER et menneske med kattetanker", "totalP": 0, "itchy": 1, "id": 104},  
+
+        {"question": "At en psykopat elsker deg, men du liker ikke dem ELLER At en psykopat hatet deg", "totalP": 0, "itchy": 1, "id": 105},  
+
+        {"question": "Være første person drept i en skrekkfilm ELLER Være den siste som blir drept i en skrekkfilm", "totalP": 0, "itchy": 1, "id": 106},  
+
+        {"question": "Drepe __ ELLER Drepe __", "totalP": 2, "itchy": 0, "id": 107},  
+
+        {"question": "Bli drept av din nærmeste venn ELLER Aldri la noen bli godt kjent med deg igjen", "totalP": 0, "itchy": 1, "id": 108},  
+
+        {"question": "Friends ELLER The Office", "totalP": 0, "itchy": 1, "id": 109},  
+
+        {"question": "Ha måne ELLER Være skallet", "totalP": 0, "itchy": 1, "id": 110},  
+
+        {"question": "Ha ansvar over 10 barn ELLER Være fengslet i 15 år", "totalP": 0, "itchy": 1, "id": 111},  
+
+        {"question": "Dø nå ELLER Bli stemplet som pedofil resten av livet", "totalP": 0, "itchy": 0, "id": 112},  
+
+        {"question": "Kiwi ELLER Rema 1000?", "totalP": 0, "itchy": 1, "id": 113}, 
+
+        {"question": "Løpetrening ute ELLER Løpe på tredemølle?", "totalP": 0, "itchy": 1, "id": 114}, 
+
+        {"question": "Røff sex ELLER Intim sex?", "totalP": 0, "itchy": 0, "id": 115}, 
+
+        {"question": "Bli pisket ELLER Kvelt under sex?", "totalP": 0, "itchy": 0, "id": 116}, 
+
+        {"question": "Gifte deg med __ ELLER __?", "totalP": 2, "itchy": 1, "id": 117}, 
+
+        {"question": "Yrkesfaglig ELLER Studiespesialisering?", "totalP": 0, "itchy": 1, "id": 118}, 
+
+        {"question": "Spise Ræv ELLER Kysse Ræv", "totalP": 0, "itchy": 0, "id": 119}, 
+
+        {"question": "Kommunisme ELLER Kapitalisme", "totalP": 0, "itchy": 1, "id": 120}, 
+
+        {"question": "Svelge sæd under sex ELLER La noen komme i deg", "totalP": 0, "itchy": 0, "id": 121},  
+
+        {"question": "Masturbere selv ELLER La noen uerfarne masturbere deg", "totalP": 0, "itchy": 0, "id": 122},  
+
+        {"question": "Legge på deg 100 kilo ELLER Miste kjønnslegemet ditt", "totalP": 0, "itchy": 0, "id": 123}, 
+
+        {"question": "Ha sex med læreren men ingen fant ut om det ELLER Ikke ha sex med læreren din men alle andre trodde du gjorde det", "totalP": 0, "itchy": 0, "id": 124}, 
+
+        {"question": "Være incel for livet ut ELLER Du mister dommen i en gangbang  hvor du blir dominert av alle andre", "totalP": 0, "itchy": 0, "id": 125}, 
+
+        {"question": "Pule din beste venn ELLER En ex alt gikk til helvete med", "totalP": 0, "itchy": 0, "id": 126}, 
+
+        {"question": "Ha sex med noen som aldri dusjer ELLER Ha Sex med noen som aldri pusser tennene sine", "totalP": 2, "itchy": 0, "id": 127}, 
+
+        {"question": "Bli dominert i senga ELLER Være submissiv i senga", "totalP": 0, "itchy": 1, "id": 128}, 
+
+        {"question": "Få en synlig orgasme hver gang du ser crushet ditt ELLER Hver gang du er med bestevennene dine", "totalP": 0, "itchy": 0, "id": 129}, 
+
+        {"question": "Se foreldrene dine i en porno ELLER Exen din i en porno etter et tøft brudd", "totalP": 0, "itchy": 0, "id": 130}, 
+
+        {"question": "Mangle armene dine ELLER Mangle bena dine", "totalP": 0, "itchy": 1, "id": 131}, 
+
+        {"question": "Være konstant sulten ELLER Være konstant tørst", "totalP": 0, "itchy": 1, "id": 132}, 
+
+        {"question": "Få sæd i håret ELLER I nesa?", "totalP": 0, "itchy": 0, "id": 133},  
+
+        {"question": "Cheate på kjærsten og fortelle dem det ELLER Ikke fortelle dem det", "totalP": 0, "itchy": 0, "id": 134},  
+
+        {"question": "Ha sex på toalettet på en bensinstasjon ELLER I en seng full av flekker", "totalP": 0, "itchy": 0, "id": 135}, 
+
+        {"question": "Være sammen med noen som nekter å kose ELLER Noen som aldri går ned på deg?", "totalP": 0, "itchy": 0, "id": 136}, 
+
+        {"question": "Pule noen som du fant ut i etterkant at du var i nær slekt med ELLER At personen var en brutal seriemorder", "totalP": 0, "itchy": 0, "id": 137}, 
+
+        {"question": "Masturbere foran klassen ELLER Foran familien", "totalP": 0, "itchy": 0, "id": 138}, 
+
+        {"question": "Være full ELLER Være høy", "totalP": 0, "itchy": 0, "id": 139}, 
+
+        {"question": "Ha en partner som har en intens fot-fetish ELLER Som er en masochist", "totalP": 0, "itchy": 0, "id": 140}, 
+
+        {"question": "Se foreldrene dine ha sex hver eneste kveld ELLER Bli med en gang for å slutte det", "totalP": 0, "itchy": 0, "id": 141}, 
+
+        {"question": "Pule en gris på nasjonal tv ELLER Være skyldig i at en god venn dør?", "totalP": 0, "itchy": 0, "id": 142}, 
+
+        {"question": "Ha sex med din kjærsten din i din mors kropp ELLER Omvendt?", "totalP": 0, "itchy": 0, "id": 143}, 
+
+        {"question": "Bruke varm stearin ELLER Isbiter under sex", "totalP": 0, "itchy": 0, "id": 145}, 
+
+        {"question": "Ha en nipel ELLER Ha 4 nipler", "totalP": 0, "itchy": 0, "id": 146}, 
+
+        {"question": "Få barn før du er 18 ELLER Aldri få barn?", "totalP": 0, "itchy": 1, "id": 147} ,
+
+        {"question": "Kutte ut all kontakt med en ex ELLER Forbli gode venner med en ex", "totalP": 0, "itchy": 1, "id": 148}, 
+
+        {"question": "Være en voksen baby leker ELLER Være en furry", "totalP": 0, "itchy": 1, "id": 149}, 
+
+        {"question": "Aldri bruke sosiale medier igjen ELLER Aldri bruke søkemotorer igjen", "totalP": 0, "itchy": 0, "id": 150} 
+    ]
+}

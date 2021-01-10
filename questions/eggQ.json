@@ -1,0 +1,12 @@
+{
+  "Magnus": {"question": "Magnus, siden du er her så må alle sammen chugge drikken sin,", "totalP": 0, "itchy": 0, "title": "Spesial: Magnus", "id": 0},   
+  "Jonathan": {"question": "Kong Jonathan, du har nå 3 ordre, men for hver ordre du gir ut må du ta 3 slurker", "totalP": 0, "itchy": 0, "title": "Spesial: Jonathan", "id": 1},
+  "Felix": {"question": "Felix, siden du har så big dick energy, så kan du dele ut opp til 100 slurker, men for hver slurk du deler ut må du ta 2 slurker", "totalP": 0, "itchy": 0, "title": "Spesial: Felix", "id": 2},
+  "Rasmus": {"question": "Rasmus, ta på deg 2 jakker siden du fryser, og du får ikke lov til å snakke om Mexikansk mat", "totalP": 0, "itchy": 0, "title": "Spesial: Rasmus", "id": 3},
+  "NULL": {"question": "ERROR ERROR navn kan ikke være NULL ERROR ERROR, den som heter NULL må chugge drikken sin ERROR", "totalP": 0, "itchy": 0, "title": "ERROR", "id": 4},
+  "Thien": {"question": "Noen setter på en sang, og Thien skal da få sangens lyrics og dermed synge den", "totalP": 0, "itchy": 0, "title": "Spesial: Thien", "id": 5},
+  "Sygard": {"question": "Sygard, siden du er kul og har lagd denne appen, så kan du dele ut 20 slurker konsekvenst fritt", "totalP": 0, "itchy": 0, "title": "Spesial: Sygard", "id": 6},
+  "Daniel": {"question": "Daniel, du må kødderinge noen, gruppa bestemmer hvem og pranken for kødderingingen", "totalP": 0, "itchy": 0, "title": "Spesial: Daniel", "id": 7},
+  "Martin": {"question": "Martin, chug et glass med vann, det er sunt", "totalP": 0, "itchy": 0, "title": "Spesial: Martin", "id": 8},
+  "Olaf": {"question": "Olaf, send en hyggelig melding til 3 personer du er glad i", "totalP": 0, "itchy": 0, "title": "Spesial: Olaf", "id": 9}
+}

@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Dram",
+    "slug": "newdram",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "sdkVersion": "40.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#640064"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.keiser.newdram",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.keiser.newdram",
+      "versionCode": 9,
+      "permissions": []
+    }
+  }
+}
