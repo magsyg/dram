@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, View, Alert, StyleSheet, Keyboard, TouchableWithoutFeedback, Platform} from 'react-native';
+import {Text, View, Alert, Image, StyleSheet, Keyboard, TouchableWithoutFeedback, Platform} from 'react-native';
 
 import Colors from '../constants/colors';
 import PurpleButton from '../components/PurpleButton';
@@ -25,7 +25,9 @@ const PlayerScreen = props => {
     return(
         <TouchableWithoutFeedback onPress={()=> {Keyboard.dismiss()}}>
             <View style={styles.container}>
-                <View style={{padding:0, margin: 20}}><Text style={styles.gameTitle}> DRAM! </Text></View>
+                <View style={{padding:0, margin: 20}}>
+                    <Text style={styles.gameTitle}> DRAM! </Text>
+                </View>
                 <AddPlayers ps={props.ps} addP={props.addP} removeP={props.removeP}/>
                 <PurpleButton title="Start" fontSz={styles.btntxt} onPress={switchScreen}/>
             </View>
@@ -41,10 +43,10 @@ const styles = StyleSheet.create({
     },
     gameTitle: {
         marginTop: Platform.OS === 'ios' ? 2 : 0,
-        fontSize: 100,
+        fontSize: 112,
         color: 'white',
-       fontFamily: 'b',
-       includeFontPadding: false
+        fontFamily: 'b',
+        includeFontPadding: false
     },
     btntxt: {
         fontSize: 54

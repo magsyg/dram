@@ -62,13 +62,15 @@ export default class GameScreen extends React.Component {
                     Animated.timing(
                         this.state.xValue1, {
                             toValue:  cPos,
-                            duration: 0
+                            duration: 0,
+                            useNativeDriver: false, 
                         }
                     ),
                     Animated.timing(
                         this.state.xValue2, {
                             toValue:  cPos,
-                            duration: 0
+                            duration: 0,
+                            useNativeDriver: false, 
                         }
                     )
                 ]).start();
@@ -76,13 +78,15 @@ export default class GameScreen extends React.Component {
                     Animated.timing(
                         this.state.xValue1, {
                             toValue: widthS,
-                            duration: 400
+                            duration: 400,
+                            useNativeDriver: false,
                         }
                     ),
                     Animated.timing(
                         this.state.xValue2, {
                             toValue: -widthS,
-                            duration: 400
+                            duration: 400,
+                            useNativeDriver: false, 
                         }
                     )
                 ]).start();
@@ -104,13 +108,15 @@ export default class GameScreen extends React.Component {
                 Animated.timing(
                     this.state.xValue1, {
                         toValue: widthS*1.5,
-                        duration: 0
+                        duration: 0,
+                        useNativeDriver: false,
                     }
                 ),
                 Animated.timing(
                     this.state.xValue2, {
                         toValue: -widthS*1.5,
-                        duration: 0
+                        duration: 0,
+                        useNativeDriver: false, 
                     }
                 )
             ]).start();
@@ -118,13 +124,15 @@ export default class GameScreen extends React.Component {
                 Animated.timing(
                     this.state.xValue1, {
                         toValue:  cPos,
-                        duration: 400
+                        duration: 400,
+                        useNativeDriver: false, 
                     }
                 ),
                 Animated.timing(
                     this.state.xValue2, {
                         toValue:  cPos,
-                        duration: 400
+                        duration: 400,
+                        useNativeDriver: false, 
                     }
                 )
             ]).start();
@@ -142,10 +150,9 @@ export default class GameScreen extends React.Component {
             card:{
                 zIndex: 1,
                 position: 'absolute', 
-                left: cPos,
                 top:Math.floor(heightS-heightS*0.925),
                 bottom:Math.floor(heightS-heightS*0.925),
-
+                left: cPos,
                 width: (Math.floor(widthS*0.85)),
             },
             buttons: {

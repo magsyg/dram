@@ -38,7 +38,7 @@
 
         {"question": "Drikker cider må ta 6 slurker", "totalP": 0, "itchy": 1, "id": 17},  
 
-        {"question": "Har kondom med seg må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 18},  
+        {"question": "Har kondom med seg må ta 2 slurker", "totalP": 0, "itchy": 0, "id": 18},  
 
         {"question": "Er jomfru kan dele ut 7 slurker", "totalP": 0, "itchy": 0, "id": 19},  
 
@@ -58,7 +58,7 @@
 
         {"question": "Trener til vanlig må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 27},  
 
-        {"question": "Tror de kunne ha slått oppleser i en fight må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 28},  
+        {"question": "Tror de kunne ha slått oppleser i en fight må ta 2 slurker", "totalP": 0, "itchy": 0, "id": 28},  
 
         {"question": "Har jobb må ta 2 slurker", "totalP": 0, "itchy": 1, "id": 29},  
 
@@ -104,9 +104,9 @@
 
         {"question": "Syntes __ er kul tar 2 slurker", "totalP": 1, "itchy": 1, "id": 50}, 
 
-        {"question": "Er en knarker tar 4 slurker", "totalP": 0, "itchy": 1, "id": 51}, 
+        {"question": "Er en knarker tar 4 slurker", "totalP": 0, "itchy": 0, "id": 51}, 
 
-        {"question": "Liker små pupper tar 4 slurker", "totalP": 0, "itchy": 0, "id": 52}, 
+        {"question": "Elsker små pupper tar 4 slurker", "totalP": 0, "itchy": 0, "id": 52}, 
 
         {"question": "Er høye på livet tar 4 slurker", "totalP": 0, "itchy": 1, "id": 53}, 
 
@@ -240,13 +240,13 @@
 
         {"question": "Kan pule alt på to ben tar 3 slurker", "totalP": 0, "itchy": 0, "id": 117}, 
 
-        {"question": "Er i milla tar 6 slurker", "totalP": 0, "itchy": 0, "id": 118}, 
+        {"question": "Er i milla tar 6 slurker", "totalP": 0, "itchy": 1, "id": 118}, 
 
         {"question": "Har en knust mobil tar 3 slurker", "totalP": 0, "itchy": 1, "id": 119}, 
 
         {"question": "Har en sixpack kan dele ut 6 slurker", "totalP": 0, "itchy": 1, "id": 120}, 
 
-        {"question": "Drikker vin tar 3 slurker", "totalP": 0, "itchy": 0, "id": 121}, 
+        {"question": "Drikker vin tar 3 slurker", "totalP": 0, "itchy": 1, "id": 121}, 
 
         {"question": "Hoster vorset kan dele ut 10 slurker", "totalP": 0, "itchy": 1, "id": 122}, 
 
@@ -254,6 +254,77 @@
 
         {"question": "Har blitt dumpa innen de to siste månedene kan dele ut 10 slurker", "totalP": 0, "itchy": 0, "id": 124},
 
-        {"question": "Ikke er over en ex kan dele ut 5 slurker", "totalP": 0, "itchy": 0, "id": 125}
+        {"question": "Ikke er over en ex kan dele ut 5 slurker", "totalP": 0, "itchy": 0, "id": 125},
+
+        {"question": "Elsker store pupper tar 3 sluker", "totalP": 0, "itchy": 0, "id": 126},
+
+        {"question": "Er en Dom tar 3 slurker", "totalP": 0, "itchy": 0, "id": 127},
+
+        {"question": "Er en Sub tar 3 slurker", "totalP": 0, "itchy": 0, "id": 128},
+
+        {"question": "Liker å bli kvelt tar 3 slurker", "totalP": 0, "itchy": 0, "id": 129},
+
+        {"question": "Kunne ha pult noen som er over 60 tar 3 slurker", "totalP": 0, "itchy": 0, "id": 130},
+
+        {"question": "Har en sex-playlist tar 3 slurker", "totalP": 0, "itchy": 0, "id": 131},
+
+        {"question": "Kunne ha blitt med i en trekant med __ og __ tar 3 slurker", "totalP": 0, "itchy": 0, "id": 132},
+
+        {"question": "Kunne ha meldt seg på Ex On The Beach tar 3 slurker", "totalP": 0, "itchy": 0, "id": 133},
+
+        {"question": "Liker å bruke sexleketøy i senga tar 3 slurker", "totalP": 0, "itchy": 0, "id": 134},
+
+        {"question": "Kunne tatt et body shot av __ tar 3 slurker", "totalP": 0, "itchy": 0, "id": 135},
+
+        {"question": "Kunne ha kysset ræva til __ tar 5 slurker", "totalP": 0, "itchy": 0, "id": 136},
+
+        {"question": "Kunne ha klint med __ tar 5 slurker", "totalP": 0, "itchy": 0, "id": 137},
+
+        {"question": "Bruker buttplug nå kan dele ut 5 slurker", "totalP": 0, "itchy": 0, "id": 138},
+
+        {"question": "Går i baris nå kan dele ut 5 slurker", "totalP": 0, "itchy": 0, "id": 139},
+
+        {"question": "Sitter i underbuksa nå kan dele ut 5 slurker", "totalP": 0, "itchy": 0, "id": 140},
+
+        {"question": "Sitter kun i undertøyet sitt kan dele ut 10 slurker", "totalP": 0, "itchy": 0, "id": 141},
+
+        {"question": "Drikker noen andre sin drikke tar 3 slurker", "totalP": 0, "itchy": 0, "id": 142},
+
+        {"question": "Har OnlyFans tar 3 slurker", "totalP": 0, "itchy": 0, "id": 143},
+
+        {"question": "Har en Pornhub-bruker tar 3 slurker", "totalP": 0, "itchy": 0, "id": 144},
+
+        {"question": "Er høylytte i senga tar 3 slurker", "totalP": 0, "itchy": 0, "id": 145},
+
+        {"question": "Liker ananas på pizza tar 5 slurker", "totalP": 0, "itchy": 1, "id": 146},
+
+        {"question": "Har et verv som frivilig tar 3 slurker", "totalP": 0, "itchy": 1, "id": 147},
+
+        {"question": "Spiser chips tar 3 slurker", "totalP": 0, "itchy": 1, "id": 148},
+
+        {"question": "Har en sjuk fetish tar 3 slurker", "totalP": 0, "itchy": 0, "id": 149},
+
+        {"question": "Har en fot-fetish tar 3 slurker", "totalP": 0, "itchy": 0, "id": 150},
+
+        {"question": "Har en digg rumpe tar 5 slurker", "totalP": 0, "itchy": 0, "id": 151},
+
+        {"question": "Ikke tåler synet av blod tar 3 slurker", "totalP": 0, "itchy": 1, "id": 152},
+
+        {"question": "Tror de har størst pikk i rommet tar 5 slurker", "totalP": 0, "itchy": 0, "id": 153},
+
+        {"question": "Tror de har finest kropp i rommet tar 5 slurker", "totalP": 0, "itchy": 0, "id": 154},
+
+        {"question": "Tror de har de største brystene i rommet tar 5 slurker", "totalP": 0, "itchy": 0, "id": 155},
+
+        {"question": "Tror de er smartest i rommet tar 5 slurker", "totalP": 0, "itchy": 0, "id": 156},
+
+        {"question": "Tror de er sterkest i rommet tar 5 slurker", "totalP": 0, "itchy": 0, "id": 157},
+
+        {"question": "Kunne ha kjøpt en prostituert tar 3 slurker", "totalP": 0, "itchy": 0, "id": 158},
+
+        {"question": "Er i et ulykkelig forhold tar 3 slurker", "totalP": 0, "itchy": 0, "id": 159},
+
+        {"question": "Liker å kose mer en sex tar 3 slurker", "totalP": 0, "itchy": 0, "id": 160}
+
     ]
 }

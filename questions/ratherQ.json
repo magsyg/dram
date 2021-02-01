@@ -54,7 +54,7 @@
 
         {"question": "Aldri bruke internett ELLER Aldri bruke kjøleskap igjen", "totalP": 0, "itchy": 1, "id": 25},  
 
-        {"question": "Bare reise med Fly ELLER Bare reise med bil", "totalP": 0, "itchy": 1, "id": 26},  
+        {"question": "Bare reise med fly ELLER Bare reise med bil", "totalP": 0, "itchy": 1, "id": 26},  
 
         {"question": "Vite når du skal dø ELLER Hvordan du skal dø", "totalP": 0, "itchy": 1, "id": 27},  
 
@@ -70,15 +70,15 @@
 
         {"question": "Kunne alltid forstå når folk lyver ELLER Aldri bli tatt i å lyve selv", "totalP": 0, "itchy": 1, "id": 33},  
 
-        {"question": "Ha sex med sjefen for forfremmelse ELLER ikke få en forfremmelse", "totalP": 0, "itchy": 0, "id": 34},  
+        {"question": "Ha sex med sjefen for forfremmelse ELLER Ikke få en forfremmelse", "totalP": 0, "itchy": 0, "id": 34},  
 
         {"question": "Aldri kunne lese igjen ELLER Aldri kunne høre på musikk igjen", "totalP": 0, "itchy": 1, "id": 35},  
 
         {"question": "Altfor stor penis ELLER Liten penis", "totalP": 0, "itchy": 0, "id": 36},  
 
-        {"question": "Gå inn på foreldrene dine ha sex ELLER At de går inn på deg ha sex", "totalP": 0, "itchy": 1, "id": 37},  
+        {"question": "Gå inn på foreldrene dine ha sex ELLER At de går inn på deg ha sex", "totalP": 0, "itchy": 0, "id": 37},  
 
-        {"question": "Farge håret i en ekstrem farge ELLER skinne deg", "totalP": 0, "itchy": 1, "id": 38},  
+        {"question": "Farge håret i en ekstrem farge ELLER Skinne deg", "totalP": 0, "itchy": 1, "id": 38},  
 
         {"question": "Vær en baby resten av livet ditt ELLER Være gammel resten av livet ditt", "totalP": 0, "itchy": 1, "id": 39},  
 
@@ -106,7 +106,7 @@
 
         {"question": "Være atletisk ELLER Være smart", "totalP": 0, "itchy": 1, "id": 51},  
 
-        {"question": "Ha stemmen til Morgan Freeman ELLER Ha stemmen til Seth Macfarlane", "totalP": 0, "itchy": 1, "id": 52},  
+        {"question": "Ha stemmen til Morgan Freeman ELLER Være flink til å synge", "totalP": 0, "itchy": 1, "id": 52},  
 
         {"question": "Bli angripet av 30 kuer på størrelse til en mus ELLER en mus på størrelse på en ku", "totalP": 0, "itchy": 1, "id": 53},  
 
@@ -156,7 +156,7 @@
 
         {"question": "Ha en sang konstant på hjernen ELLER Alltid bli blendet", "totalP": 0, "itchy": 1, "id": 76},  
 
-        {"question": "Være håpløst forelsket i en som aldri kan bli din og som gifter seg med bestevennen din ELLER Finne ut at noen du er sammen med har vært utro med bestevennen din", "totalP": 0, "itchy": 1, "id": 77},  
+        {"question": "Være håpløst forelsket i en som aldri kan bli din og som gifter seg med bestevennen din ELLER Finne ut at noen du er sammen med har vært utro med bestevennen din", "totalP": 0, "itchy": 0, "id": 77},  
 
         {"question": "Ha venner som konstant spammer deg ELLER Ha venner som er dårlige på å svare på meldinger", "totalP": 0, "itchy": 1, "id": 78},  
 
@@ -234,7 +234,7 @@
 
         {"question": "Bli pisket ELLER Kvelt under sex?", "totalP": 0, "itchy": 0, "id": 116}, 
 
-        {"question": "Gifte deg med __ ELLER __?", "totalP": 2, "itchy": 1, "id": 117}, 
+        {"question": "Gifte deg med __ ELLER __?", "totalP": 2, "itchy": 0, "id": 117}, 
 
         {"question": "Yrkesfaglig ELLER Studiespesialisering?", "totalP": 0, "itchy": 1, "id": 118}, 
 
@@ -256,7 +256,7 @@
 
         {"question": "Ha sex med noen som aldri dusjer ELLER Ha Sex med noen som aldri pusser tennene sine", "totalP": 2, "itchy": 0, "id": 127}, 
 
-        {"question": "Bli dominert i senga ELLER Være submissiv i senga", "totalP": 0, "itchy": 1, "id": 128}, 
+        {"question": "Bli dominert i senga ELLER Være submissiv i senga", "totalP": 0, "itchy": 0, "id": 128}, 
 
         {"question": "Få en synlig orgasme hver gang du ser crushet ditt ELLER Hver gang du er med bestevennene dine", "totalP": 0, "itchy": 0, "id": 129}, 
 
@@ -268,7 +268,7 @@
 
         {"question": "Få sæd i håret ELLER I nesa?", "totalP": 0, "itchy": 0, "id": 133},  
 
-        {"question": "Cheate på kjærsten og fortelle dem det ELLER Ikke fortelle dem det", "totalP": 0, "itchy": 0, "id": 134},  
+        {"question": "Cheate på kjæresten og fortelle dem det ELLER Ikke fortelle dem det", "totalP": 0, "itchy": 0, "id": 134},  
 
         {"question": "Ha sex på toalettet på en bensinstasjon ELLER I en seng full av flekker", "totalP": 0, "itchy": 0, "id": 135}, 
 
@@ -292,12 +292,56 @@
 
         {"question": "Ha en nipel ELLER Ha 4 nipler", "totalP": 0, "itchy": 0, "id": 146}, 
 
-        {"question": "Få barn før du er 18 ELLER Aldri få barn?", "totalP": 0, "itchy": 1, "id": 147} ,
+        {"question": "Få barn før du er 18 ELLER Aldri få barn?", "totalP": 0, "itchy": 0, "id": 147} ,
 
         {"question": "Kutte ut all kontakt med en ex ELLER Forbli gode venner med en ex", "totalP": 0, "itchy": 1, "id": 148}, 
 
-        {"question": "Være en voksen baby leker ELLER Være en furry", "totalP": 0, "itchy": 1, "id": 149}, 
+        {"question": "Være en voksen baby leker ELLER Være en furry", "totalP": 0, "itchy": 0, "id": 149}, 
 
-        {"question": "Aldri bruke sosiale medier igjen ELLER Aldri bruke søkemotorer igjen", "totalP": 0, "itchy": 0, "id": 150} 
+        {"question": "Aldri bruke sosiale medier igjen ELLER Aldri bruke søkemotorer igjen", "totalP": 0, "itchy": 1, "id": 150},
+
+        {"question": "Pisket ELLER Bli pisket under sex", "totalP": 0, "itchy": 0, "id": 151}, 
+
+        {"question": "Si din ex sitt navn under sex ELLER Si navnet til bestevennen til partneren sitt", "totalP": 0, "itchy": 0, "id": 152},
+
+        {"question": "Drikke Oppkast ELLER Drikke Urin", "totalP": 0, "itchy": 0, "id": 153}, 
+
+        {"question": "Være Gårdseieren ELLER En av frierne på Jakten på kjærligheten", "totalP": 0, "itchy": 1, "id": 155}, 
+        
+        {"question": "Slikke iskrem av noen ELLER Slikke pisket krem av noen", "totalP": 0, "itchy": 0, "id": 156}, 
+
+        {"question": "Bli tatt i å pule ELLER Bli tatt i å onanere", "totalP": 0, "itchy": 0, "id": 157},
+
+        {"question": "Se __ naken ELLER Se __ naken", "totalP": 0, "itchy": 0, "id": 158}, 
+
+        {"question": "Ha trekant ELLER Bli en del av Mile-high Club", "totalP": 0, "itchy": 0, "id": 159}, 
+
+        {"question": "Ha exen sette deg opp med noen ELLER At Moren din sette deg opp med noen", "totalP": 0, "itchy": 0, "id": 160},
+
+        {"question": "Se et familie medlem på Tinder ELLER Se exen din på Tinder", "totalP": 0, "itchy": 0, "id": 161}, 
+
+        {"question": "Kun kunne høre på en sang ut livet under sex ELLER Aldri høre på musikk under sex", "totalP": 0, "itchy": 0, "id": 162}, 
+
+        {"question": "Gjennoppleve første kyss ELLER Første gang du hadde sex", "totalP": 0, "itchy": 0, "id": 163}, 
+
+        {"question": "Ha en dyp samtale med noen du elsker en hel natt ELLER Pule hele natta", "totalP": 0, "itchy": 0, "id": 165}, 
+
+        {"question": "Sex uten forspill ELLER Med forspill", "totalP": 0, "itchy": 0, "id": 166}, 
+
+        {"question": "Intim kyssing ELLER Rå klining", "totalP": 0, "itchy": 0, "id": 167} ,
+
+        {"question": "Blotte deg for din bestevenns kjæreste ELLER Ha din bestevenns kjæreste blotte deg", "totalP": 0, "itchy": 0, "id": 168}, 
+
+        {"question": "Pule din barneskole lærer ELLER Videregående læreren din", "totalP": 0, "itchy": 0, "id": 169}, 
+
+        {"question": "Bli tatt i å være utro ELLER Ta kjæresten i å være utro", "totalP": 0, "itchy": 0, "id": 170},
+
+        {"question": "Kun kunne pule i en sex ELLER Aldri kunne pule i en seng", "totalP": 0, "itchy": 0, "id": 171}, 
+
+        {"question": "La kjæresten kysse noen andre foran deg ELLER At kjæresten lar deg kysse noen andre foran dem", "totalP": 0, "itchy": 0, "id": 172}, 
+        
+        {"question": "Date en aktiv pornostjerne ELLER At moren din er en tidligere pornostjerne", "totalP": 0, "itchy": 0, "id": 173}, 
+        
+        {"question": "Alltid gråte under sex ELLER Alltid måtte le ukontrollerbart under sex", "totalP": 0, "itchy": 0, "id": 175}
     ]
 }

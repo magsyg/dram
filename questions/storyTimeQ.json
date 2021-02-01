@@ -327,13 +327,61 @@
         {"question": "__ og __: hvordan påvirket COVID krisen deg?", "totalP": 2, "itchy": 1, "id": 161},
 
         {"question": "__ og __: hva er det rareste stedet du har pult?", "totalP": 2, "itchy": 1, "id": 162},
+
         {"question": "__ og __: hva er dine generelle prinsipper?", "totalP": 2, "itchy": 1, "id": 163},
+
         {"question": "__ og __: hva burde du bli bedre til å si nei til?", "totalP": 2, "itchy": 1, "id": 164},
+
         {"question": "__ og __: hvem stoler du mest på?", "totalP": 2, "itchy": 1, "id": 165},
+
         {"question": "__ og __: hva er det mest romantiske du har opplevd?", "totalP": 2, "itchy": 1, "id": 166},
+
         {"question": "__ og __: hvem ville du helst bli låst sammen i håndjern med?", "totalP": 2, "itchy": 1, "id": 167},
+
         {"question": "__ og __: hvordan begynte du å runke?", "totalP": 2, "itchy": 1, "id": 168},
-        {"question": "__ og __: hva burde du bli bedre til å si nei til?", "totalP": 2, "itchy": 1, "id": 169},
-        {"question": "__ og __: hva burde du bli bedre til å si nei til?", "totalP": 2, "itchy": 1, "id": 170}
+
+        {"question": "__ og __: si 3 ting du finner kult med den andre personen", "totalP": 2, "itchy": 1, "id": 169},
+
+        {"question": "__ og __: hva er din drømme tema-fest?", "totalP": 2, "itchy": 1, "id": 170},
+
+        {"question": "__ og __: si 3 ting du finner attraktivt med den andre personen", "totalP": 2, "itchy": 0, "id": 171},
+
+        {"question": "__ og __: hvem i verden hadde du helst giftet deg med", "totalP": 2, "itchy": 0, "id": 172},
+
+        {"question": "__ og __: hva er ditt favoritt sexleketøy?", "totalP": 2, "itchy": 0, "id": 173},
+
+        {"question": "__ og __: hva er ditt drømme pulested?", "totalP": 2, "itchy": 0, "id": 174},
+
+        {"question": "__ og __: hvilken sang hører du på for å få deg gira", "totalP": 2, "itchy": 1, "id": 175},
+
+        {"question": "__ og __: hva er din pule sang?", "totalP": 2, "itchy": 0, "id": 176},
+
+        {"question": "__ og __: hvordan hadde du kommet deg i buksa til den andre personen?", "totalP": 2, "itchy": 0, "id": 177},
+
+        {"question": "__ og __: hva er din favoritt porno", "totalP": 2, "itchy": 0, "id": 178},
+
+        {"question": "__ og __: hvis du skulle ha pult en tidligere sex partner, hvem ville det ha vært?", "totalP": 2, "itchy": 0, "id": 179},
+
+        {"question": "__ og __: hva er din kink?", "totalP": 2, "itchy": 0, "id": 180},
+
+        {"question": "__ og __: hva er det eldste du kunne ha gått for?", "totalP": 2, "itchy": 0, "id": 181},
+
+        {"question": "__ og __: hva er det yngste du kunne ha gått for?", "totalP": 2, "itchy": 0, "id": 182},
+
+        {"question": "__ og __: kan du gi oss noen sex-tips?", "totalP": 2, "itchy": 0, "id": 183},
+
+        {"question": "__ og __: hva er det sjukeste utfordringen du har akseptert og gjort?","totalP": 2, "itchy": 0, "id": 184},
+
+        {"question": "__ og __: har du noen sjuke røverhistorier?", "totalP": 2, "itchy": 0, "id": 185},
+
+        {"question": "__ og __: har du noen sjuke røverhistorier fra videregående?", "totalP": 2, "itchy": 0, "id": 186},
+
+        {"question": "__ og __: har du noen sjuke røverhistorier fra ungdomsskolen?", "totalP": 2, "itchy": 0, "id": 187},
+
+        {"question": "__ og __: hva er det rareste du noen sinne har gjort?", "totalP": 2, "itchy": 0, "id": 188},
+
+        {"question": "__ og __: hva er det kleineste du har opplevd med familien din?", "totalP": 2, "itchy": 0, "id": 189},
+        
+        {"question": "__ og __: hva er det groveste du har gjort på vennetur", "totalP": 2, "itchy": 0, "id": 190}
     ]
 }

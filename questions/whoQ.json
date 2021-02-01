@@ -480,6 +480,34 @@
 
             {"question": "__, hvem her er best til å strippe?", "totalP": 1, "itchy": 1, "id": 235},
 
-            {"question": "__, hvem her er er mest pappa gutt/jente?", "totalP": 1, "itchy": 1, "id": 236}
+            {"question": "__, hvem her er er mest pappa gutt/jente?", "totalP": 1, "itchy": 1, "id": 236},
+
+            {"question": "__, hvem her kunne ha vært med på stormingen av kongressen?", "totalP": 1, "itchy": 1, "id": 237}, 
+
+            {"question": "__, hvem her tror på flest konspirasjonsteorier?", "totalP": 1, "itchy": 1, "id": 238}, 
+
+            {"question": "__, hvem her kunne tjent mest på aksjer?", "totalP": 1, "itchy": 1, "id": 239}, 
+
+            {"question": "__, hvem her er en badass bitch?", "totalP": 1, "itchy": 0, "id": 240},
+
+            {"question": "__, hvem her gjør deg mest påtent?", "totalP": 1, "itchy": 0, "id": 241},
+
+            {"question": "__, hvem her kunne pult noen som var over 70", "totalP": 1, "itchy": 0, "id": 242},
+
+            {"question": "__, hvem her blir mest påtent av __?", "totalP": 2, "itchy": 0, "id": 243}, 
+
+            {"question": "__, hvem her er __ mest keen på?", "totalP": 2, "itchy": 0, "id": 244}, 
+
+            {"question": "__, hvem her kunne ha vært i en sex-cult?", "totalP": 1, "itchy": 0, "id": 245}, 
+
+            {"question": "__, hvem her er som et gammelt ektepar?", "totalP": 1, "itchy": 1, "id": 246},
+
+            {"question": "__, hvem her har en onlyfans?", "totalP": 1, "itchy": 0, "id": 247},
+
+            {"question": "__, hvem her kunne ha tatt kokain med Petter Northug?", "totalP": 1, "itchy": 1, "id": 248},
+
+            {"question": "__, hvem her er skader seg selv oftest", "totalP": 1, "itchy": 1, "id": 249},
+
+            {"question": "__, hvem her brenner mest for noe?", "totalP": 1, "itchy": 1, "id": 250}
         ]
 }

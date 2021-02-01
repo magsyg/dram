@@ -10,9 +10,9 @@ import Colors from './constants/colors';
 
 import * as Font from 'expo-font';
 
-function generateGame(totalQ, players, gameMode, fresh) {
+function generateGame(totalQ, players, gameMode, fresh, q_cache) {
   var allQ = [];
-
+  // Oppdateringen gir 45 + 35 + 45 + 25
   var neverH = JSON.parse(JSON.stringify(require('./questions/neverQ.json')));
   var neverHD = [neverH.question.filter((q) => (q.itchy===1)),neverH.question.filter((q) => q.itchy===0), neverH];
 
@@ -27,7 +27,6 @@ function generateGame(totalQ, players, gameMode, fresh) {
 
   var everyH = JSON.parse(JSON.stringify(require('./questions/everyQ.json')));  
   var everyHD = [everyH.question.filter(q => q.itchy===1),everyH.question.filter(q => q.itchy===0), everyH];
-
   var typesH = [neverHD, ratherHD, storyHD, whoHD, everyHD];
   switch(gameMode){
     case 0:
@@ -103,7 +102,16 @@ function generateGame(totalQ, players, gameMode, fresh) {
         }
         var ranType = Math.floor(Math.random() * 6);
         if(ranType===5) ranType = 0;
-        var ranQ = Math.floor(Math.random() * typesH[ranType][grov].length);
+
+        var attempts = 4
+        do {
+          var ranQ = trandom(typesH[ranType][grov].length);
+          attempts--;
+        } while(attempts > 0 && q_cache[typesH[ranType][2].title].includes(typesH[ranType][grov][ranQ].id));
+        if(!q_cache[typesH[ranType][2].title].includes(typesH[ranType][grov][ranQ].id)) {
+          q_cache[typesH[ranType][2].title].push(typesH[ranType][grov][ranQ].id)
+        } 
+        q_cache[typesH[ranType][2].title].push(typesH[ranType][grov][ranQ].id)
         var q = typesH[ranType][grov][ranQ];
         addMQ(q,typesH[ranType][2].title, typesH[ranType][2].underQ);
         typesH[ranType][grov]=typesH[ranType][grov].filter((q) => q.id != typesH[ranType][grov][ranQ].id);
@@ -356,7 +364,9 @@ function generateGame(totalQ, players, gameMode, fresh) {
     var endQ={"question": "En runde til kanskje?", "totalP": 0, "itchy": 1, "title": "Spillet er ferdig ","underQ": "Svipe eller trykk for å gå tilbake til hovedmenyen", "id": 666}; 
     allQ.splice(allQ.length,0,endQ);
   }
-
+  function trandom(range) {
+    return Math.floor(Math.random() * range*1000) % range;
+  }
   /*
   console.log(allQ[1].question);
   for(var i = 0;i <allQ.length;i++) {
@@ -367,7 +377,7 @@ function generateGame(totalQ, players, gameMode, fresh) {
   return allQ;
   
 }
-function rGame(prevQ, players, gameMode, currentQ) {
+function rGame(prevQ, players, gameMode, currentQ,q_cache) {
   var allQ = [];
 
   for(var l =0; l <= currentQ; l++) {
@@ -378,7 +388,7 @@ function rGame(prevQ, players, gameMode, currentQ) {
   allQ[0].id= allQ.length-1;
   var resting = findRest();
 
-  var newQ = generateGame(81-allQ.length-resting.length,players,gameMode,0);
+  var newQ = generateGame(81-allQ.length-resting.length,players,gameMode,0,q_cache);
   for(var l =0; l<resting.length;l++) {
     newQ.splice(2+Math.floor(Math.random()*4),0,resting[l]);
   }
@@ -449,7 +459,14 @@ export default class App extends React.Component {
       CQ: [],
     players: [],
     loaded: false,
-    currentQ: 0
+    currentQ: 0,
+    q_cache: {
+      "Alle Som":[],
+      "Jeg har aldri": [],
+      "Storytime": [],
+      "Enten eller": [],
+      "Hvem tror du?": []
+    }
   }
   }
 
@@ -491,14 +508,10 @@ export default class App extends React.Component {
         gameMode: gm,
         screen:2,
         currentQ: 0,
-        CQ: generateGame(80,this.state.players,gm,1)
+        CQ: generateGame(80,this.state.players,gm,1,this.state.q_cache)
     });
-    duplicateCount = 0
-    console.log(generateGame(80,this.state.players,gm,1))
-    /*for (var i = 0; i < 6; i++) {
-      generateGame(80,this.state.players,gm,1)
-    } */
-  }
+  };
+
   
  /* async makeGame(gm) {
     await this.setState({CQ: generateGame(80,this.state.players,gm,1)});

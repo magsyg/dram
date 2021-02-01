@@ -38,7 +38,8 @@
         {"question": "__ skal holde en tale på 60 sekunder for __, om hva som er bra med -2-", "totalP": 2, "itchy": 1, "title": "Tale", "underQ":"Taleren kan dele ut 6 slurker", "id": 36},
         {"question": "Alle skal på rundgang si en fin ting til __, den til venstre for -1- starter", "totalP": 1, "itchy": 1, "title": "Ros", "underQ":"Den roste skal da ta like mange slurker som antall personer i spillet", "id": 37},
         {"question": "Alle jenter må ta 2 slurker", "totalP": 0, "itchy": 0, "title": "Alle jenter er horer", "id": 38}, 
-        {"question": "Alle gutter må ta 2 slurker", "totalP": 0, "itchy": 0, "title": "Alle gutter er horer", "id": 39}
+        {"question": "Alle gutter må ta 2 slurker", "totalP": 0, "itchy": 0, "title": "Alle gutter er horer", "id": 39},
+        {"question": "__ hvisk et hvem tror du spørsmål til __, -2- skal dermed si kun hvem de tror det er", "totalP": 2, "itchy": 0, "title": "Psykolog", "underQ":"Dersom folk vil vite hva de tror personen er så må de ta 4 slurker","id": 40}
     ],
     "questions2": [
         {"question": "__ finner på et ord, og så går dere i rundgang på å finne ord som rimer med ordet, første mann som sier noe som er sagt fra før eller ikke finner på noe innen 5 sekunder må ta 3 slurker", "totalP": 1, "itchy": 1, "title": "Rim", "id": 0}, 
